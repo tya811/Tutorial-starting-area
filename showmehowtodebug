@@ -1,0 +1,4826 @@
+.wine/:
+dosdevices
+drive_c
+system.reg
+userdef.reg
+user.reg
+
+.wine/dosdevices:
+c:
+d::
+z:
+
+.wine/drive_c:
+Program Files
+Program Files (x86)
+users
+windows
+
+.wine/drive_c/Program Files:
+Common Files
+Internet Explorer
+Plogue
+VstPlugins
+Windows Media Player
+Windows NT
+
+.wine/drive_c/Program Files/Common Files:
+Avid
+Microsoft Shared
+System
+VST2
+
+.wine/drive_c/Program Files/Common Files/Avid:
+Audio
+
+.wine/drive_c/Program Files/Common Files/Avid/Audio:
+Plug-Ins
+
+.wine/drive_c/Program Files/Common Files/Avid/Audio/Plug-Ins:
+AlterEgo.aaxplugin
+
+.wine/drive_c/Program Files/Common Files/Avid/Audio/Plug-Ins/AlterEgo.aaxplugin:
+Contents
+desktop.ini
+PlugIn.ico
+
+.wine/drive_c/Program Files/Common Files/Avid/Audio/Plug-Ins/AlterEgo.aaxplugin/Contents:
+x64
+
+.wine/drive_c/Program Files/Common Files/Avid/Audio/Plug-Ins/AlterEgo.aaxplugin/Contents/x64:
+AlterEgo.aaxplugin
+
+.wine/drive_c/Program Files/Common Files/Microsoft Shared:
+TextConv
+
+.wine/drive_c/Program Files/Common Files/Microsoft Shared/TextConv:
+
+.wine/drive_c/Program Files/Common Files/System:
+OLE DB
+
+.wine/drive_c/Program Files/Common Files/System/OLE DB:
+msdaps.dll
+oledb32.dll
+
+.wine/drive_c/Program Files/Common Files/VST2:
+Plogue Art et Technologie, Inc
+
+.wine/drive_c/Program Files/Common Files/VST2/Plogue Art et Technologie, Inc:
+AlterEgo VST_x64.dll
+
+.wine/drive_c/Program Files/Internet Explorer:
+iexplore.exe
+
+.wine/drive_c/Program Files/Plogue:
+AlterEgo
+Aria
+
+.wine/drive_c/Program Files/Plogue/AlterEgo:
+AAX
+AlterEgo.bank.xml
+AlterEgo.exe
+AlterEgo x64.exe
+AriaSetup.xml
+Data
+default.ariax
+GUI
+GUI_fr
+GUI_ja
+Help
+libsndfile_x64.dll
+libsndfile_x86.dll
+Licence.rtf
+PlogueOnlineSupport.url
+portaudio_x64.dll
+portaudio_x86.dll
+P_plogue.ico
+Presets
+Programs
+RTAS
+unins000.dat
+unins000.exe
+VST
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/AAX:
+AlterEgo.aaxplugin
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/AAX/AlterEgo.aaxplugin:
+Contents
+desktop.ini
+PlugIn.ico
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/AAX/AlterEgo.aaxplugin/Contents:
+x64
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/AAX/AlterEgo.aaxplugin/Contents/x64:
+AlterEgo.aaxplugin
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Data:
+cmudict.rep
+dico.dictfr
+jp
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Data/jp:
+cforms.cha
+chadic.da
+chadic.dat
+chadic.lex
+connect.cha
+ctypes.cha
+grammar.cha
+matrix.cha
+table.cha
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/GUI:
+bg_effects@2x.png
+bg_effects.png
+bg_expression@2x.png
+bg_expression.png
+bg_glide@2x.png
+bg_glide.png
+bg_humanize@2x.png
+bg_humanize.png
+bg_Label2@2x.png
+bg_Label2.png
+bg_Label2s@2x.png
+bg_Label2s.png
+bg_Language@2x.png
+bg_Language.png
+bg_Location@2x.png
+bg_Location.png
+bg_mix@2x.png
+bg_mix.png
+bg_setup@2x.png
+bg_setup.png
+bg_stack@2x.png
+bg_stack.png
+bg_vibrato@2x.png
+bg_vibrato.png
+bg_voice@2x.png
+bg_voice.png
+bluehSeparator.png
+box@2x.png
+box.png
+btn_about@2x.png
+btn_about.png
+btn_controls@2x.png
+btn_controls.png
+btn_download@2x.png
+btn_download.png
+btn_engine_update@2x.png
+btn_engine_update.png
+btn_from_clipboard@2x.png
+btn_from_clipboard.png
+btn_help@2x.png
+btn_help.png
+btn_import@2x.png
+btn_import.png
+btn_license.png
+btn_line_down@2x.png
+btn_line_down.png
+btn_line_up@2x.png
+btn_line_up.png
+btn_loop_line@2x.png
+btn_loop_line.png
+btn_mix@2x.png
+btn_mix.png
+btn_modulation@2x.png
+btn_modulation.png
+btn_mono_poly@2x.png
+btn_mono_poly.png
+btn_player_update@2x.png
+btn_player_update.png
+btn_to_clipboard@2x.png
+btn_to_clipboard.png
+btn_undo@2x.png
+btn_undo.png
+btn_words@2x.png
+btn_words.png
+credits.xml
+empty@2x.png
+empty.png
+FX_detune.xml
+gui_1014.xml
+gui_about.xml
+gui_ambience.xml
+gui_controls.xml
+gui_expression.xml
+gui_glide.xml
+gui_humanize.xml
+gui_main@2x.png
+gui_main.png
+gui_mix.xml
+gui_modulation.xml
+gui_phoneme_sequencer.xml
+gui_setup.xml
+gui_stack.xml
+gui_talker.xml
+gui_vibrato.xml
+gui_voice.xml
+gui_words_talker.xml
+gui_words.xml
+gui.xml
+hSeparator.png
+ID_Empty.xml
+logo@2x.png
+logo.png
+media-eject22.png
+media-playback-start22.png
+media-playback-stop22.png
+media-record22.png
+media-skip-backward22.png
+mini_help@2x.png
+mini_help.png
+mini_play@2x.png
+mini_play.png
+next_6px@2x.png
+next_6px.png
+next_8px@2x.png
+next_8px.png
+next_9px@2x.png
+next_9px.png
+pb.png
+presetbox@2x.png
+presetbox.png
+previous_6px@2x.png
+previous_6px.png
+previous_8px@2x.png
+previous_8px.png
+previous_9px@2x.png
+previous_9px.png
+snapshot_box@2x.png
+snapshot_box.png
+SpeechKnob@2x.png
+SpeechKnob.png
+talker_1014.xml
+toggle@2x.png
+toggle.png
+toggle_text@2x.png
+toggle_text.png
+twitter@2x.png
+twitter.png
+voice_box@2x.png
+voice_box.png
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/GUI_fr:
+bg_effects@2x.png
+bg_effects.png
+bg_elocution.png
+bg_expression@2x.png
+bg_expression.png
+bg_glide@2x.png
+bg_glide.png
+bg_humanize@2x.png
+bg_humanize.png
+bg_Label2@2x.png
+bg_Label2.png
+bg_Label2s@2x.png
+bg_Label2s.png
+bg_Language@2x.png
+bg_Language.png
+bg_Location@2x.png
+bg_Location.png
+bg_mix@2x.png
+bg_mix.png
+bg_setup@2x.png
+bg_setup.png
+bg_stack@2x.png
+bg_stack.png
+bg_vibrato@2x.png
+bg_vibrato.png
+bg_voice@2X.png
+bg_voice.png
+bluehSeparator.png
+box@2x.png
+box.png
+btn_about@2x.png
+btn_about.png
+btn_controls@2x.png
+btn_controls.png
+btn_download@2x.png
+btn_download.png
+btn_engine_update@2x.png
+btn_engine_update.png
+btn_from_clipboard@2X.png
+btn_from_clipboard.png
+btn_help@2x.png
+btn_help.png
+btn_import@2x.png
+btn_import.png
+btn_license.png
+btn_line_down@2x.png
+btn_line_down.png
+btn_line_up@2x.png
+btn_line_up.png
+btn_loop_line@2X.png
+btn_loop_line.png
+btn_mix@2x.png
+btn_mix.png
+btn_modulation@2x.png
+btn_modulation.png
+btn_mono_poly@2x.png
+btn_mono_poly.png
+btn_player_update@2x.png
+btn_player_update.png
+btn_to_clipboard@2x.png
+btn_to_clipboard.png
+btn_undo@2x.png
+btn_undo.png
+btn_words@2x.png
+btn_words.png
+credits.xml
+empty@2x.png
+empty.png
+FX_detune.xml
+gui_about.xml
+gui_ambience.xml
+gui_controls.xml
+gui_expression.xml
+gui_glide.xml
+gui_humanize.xml
+gui_main@2x.png
+gui_main.png
+gui_mix.xml
+gui_modulation.xml
+gui_phoneme_sequencer.xml
+gui_setup.xml
+gui_stack.xml
+gui_vibrato.xml
+gui_voice.xml
+gui_words.xml
+gui.xml
+hSeparator.png
+ID_Empty.xml
+logo@2x.png
+logo.png
+menu_box.png
+mini_help@2x.png
+mini_help.png
+mini_play@2x.png
+mini_play.png
+next_6px@2x.png
+next_6px.png
+next_8px@2x.png
+next_8px.png
+next_9px@2x.png
+next_9px.png
+pb.png
+presetbox@2x.png
+presetbox.png
+previous_6px@2x.png
+previous_6px.png
+previous_8px@2x.png
+previous_8px.png
+previous_9px@2x.png
+previous_9px.png
+snapshot_box@2x.png
+snapshot_box.png
+SpeechKnob@2x.png
+SpeechKnob.png
+toggle@2x.png
+toggle.png
+toggle_text@2x.png
+toggle_text.png
+twitter@2x.png
+twitter.png
+voice_box@2X.png
+voice_box.png
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/GUI_ja:
+bg_effects@2x.png
+bg_effects.png
+bg_elocution.png
+bg_expression@2x.png
+bg_expression.png
+bg_glide@2x.png
+bg_glide.png
+bg_humanize@2x.png
+bg_humanize.png
+bg_Label2@2x.png
+bg_Label2.png
+bg_Label2s@2x.png
+bg_Label2s.png
+bg_Language@2x.png
+bg_Language.png
+bg_Location@2x.png
+bg_Location.png
+bg_mix@2x.png
+bg_mix.png
+bg_setup@2x.png
+bg_setup.png
+bg_stack@2x.png
+bg_stack.png
+bg_vibrato@2x.png
+bg_vibrato.png
+bg_voice@2x.png
+bg_voice.png
+bluehSeparator.png
+box@2x.png
+box.png
+btn_about@2x.png
+btn_about.png
+btn_controls@2x.png
+btn_controls.png
+btn_download@2x.png
+btn_download.png
+btn_engine_update@2x.png
+btn_engine_update.png
+btn_from_clipboard@2x.png
+btn_from_clipboard.png
+btn_help@2x.png
+btn_help.png
+btn_import@2x.png
+btn_import.png
+btn_line_down@2x.png
+btn_line_down.png
+btn_line_up@2x.png
+btn_line_up.png
+btn_loop_line@2x.png
+btn_loop_line.png
+btn_mix@2x.png
+btn_mix.png
+btn_modulation@2x.png
+btn_modulation.png
+btn_mono_poly@2x.png
+btn_mono_poly.png
+btn_player_update@2x.png
+btn_player_update.png
+btn_to_clipboard@2x.png
+btn_to_clipboard.png
+btn_undo@2x.png
+btn_undo.png
+btn_words@2x.png
+btn_words.png
+credits.xml
+empty@2x.png
+empty.png
+FX_detune.xml
+gui_about.xml
+gui_ambience.xml
+gui_controls.xml
+gui_expression.xml
+gui_glide.xml
+gui_humanize.xml
+gui_main@2x.png
+gui_main.png
+gui_mix.xml
+gui_modulation.xml
+gui_phoneme_sequencer.xml
+gui_setup.xml
+gui_stack.xml
+gui_vibrato.xml
+gui_voice.xml
+gui_words.xml
+gui.xml
+hSeparator.png
+ID_Empty.xml
+logo@2x.png
+logo.png
+media-eject22.png
+media-playback-start22.png
+media-playback-stop22.png
+media-record22.png
+media-skip-backward22.png
+mini_help@2x.png
+mini_help.png
+next_6px@2x.png
+next_6px.png
+next_8px@2x.png
+next_8px.png
+next_9px@2x.png
+next_9px.png
+pb.png
+presetbox@2x.png
+presetbox.png
+previous_6px@2x.png
+previous_6px.png
+previous_8px@2x.png
+previous_8px.png
+previous_9px@2x.png
+previous_9px.png
+snapshot_box@2x.png
+snapshot_box.png
+SpeechKnob@2x.png
+SpeechKnob.png
+toggle@2x.png
+toggle.png
+toggle_text@2x.png
+toggle_text.png
+twitter@2x.png
+twitter.png
+voice_box@2x.png
+voice_box.png
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Help:
+Help Placeholder.png
+index2.html
+index.html
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets:
+com.Plogue.Sequencer.Phoneme
+com.Plogue.Talker
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme:
+Français
+Games
+Misc
+Movies
+Music
+日本語 - お喋り
+日本語 - 掛け声
+日本語 - 歌
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/Français:
+Bonjour.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/Games:
+Another Visitor.ariap
+AYBABTU.ariap
+Chicken, Fight.ariap
+Destroy Him.ariap
+Humanoid.ariap
+Press Fire to Begin.ariap
+Random Swearing.ariap
+Some Defender.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/Misc:
+All Sustains.ariap
+All Vowels.ariap
+From vowels.ariap
+Lorem ipsum.ariap
+Plogue Alter Ego.ariap
+Quick Brown.ariap
+To vowels.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/Movies:
+HAL.ariap
+I'll be back.ariap
+Joshua.ariap
+More human.ariap
+Number 5.ariap
+Shall we play.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/Music:
+Around the World.ariap
+Categories1.ariap
+Categories2.ariap
+Daisy Bell.ariap
+Fitter Happier.ariap
+Moonlight VT.ariap
+Music Non Stop.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/日本語 - お喋り:
+ゆっくりしていってね.ariap
+やろう、ぶっころしてやる.ariap
+日本語でおk.ariap
+水戸黄門.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/日本語 - 掛け声:
+ハイハイ.ariap
+ドキドキ.ariap
+タイガー.ariap
+ラブラブ.ariap
+ワクワク.ariap
+キュンキュン.ariap
+萌え萌え.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Sequencer.Phoneme/日本語 - 歌:
+さくらさくら.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Talker:
+Games
+Misc
+Movies
+Music
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Talker/Games:
+Another Visitor.ariap
+AYBABTU.ariap
+Chicken, Fight.ariap
+Destroy Him.ariap
+Humanoid.ariap
+Press Fire to Begin.ariap
+Some Defender.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Talker/Misc:
+It sure is great.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Talker/Movies:
+HAL.ariap
+I'll be back.ariap
+Joshua.ariap
+More human.ariap
+Number 5.ariap
+Shall we play.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Presets/com.Plogue.Talker/Music:
+Around the World.ariap
+Categories1.ariap
+Categories2.ariap
+Daisy Bell.ariap
+Fitter Happier.ariap
+Moonlight VT.ariap
+Music Non Stop.ariap
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/Programs:
+Control.sfzh
+Curves.sfzh
+DynParamBase.sfzh
+Empty.sfz
+FormantSinger2Talker.sfz
+Humanizer.sfzh
+MIDIProc_fr.sfzh
+MIDIProc_jp.sfzh
+MIDIProc.sfzh
+MIDIProc_talker.sfzh
+SingerExtra.sfzh
+User.sfz
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/RTAS:
+AlterEgo RTAS_x86.dpm
+
+.wine/drive_c/Program Files/Plogue/AlterEgo/VST:
+AlterEgo VST_x64.dll
+AlterEgo VST_x86.dll
+
+.wine/drive_c/Program Files/Plogue/Aria:
+ARIA Product Manager.exe
+AriaReporter.exe
+aria_x64.dll
+aria_x86.dll
+libsndfile_x64.dll
+libsndfile_x86.dll
+plaf_x64.dll
+plaf_x86.dll
+plugins
+Presets
+unins000.dat
+unins000.exe
+
+.wine/drive_c/Program Files/Plogue/Aria/plugins:
+Ambience_x64.dll
+Ambience_x86.dll
+PlogueFormantSinger2_x64.dll
+PlogueFormantSinger2_x86.dll
+PlogueFormantSinger_x64.dll
+PlogueFormantSinger_x86.dll
+PloguePhonemeSequencer_x64.dll
+PloguePhonemeSequencer_x86.dll
+PlogueTalker_x64.dll
+PlogueTalker_x86.dll
+
+.wine/drive_c/Program Files/Plogue/Aria/Presets:
+com.Garritan.Ambience
+
+.wine/drive_c/Program Files/Plogue/Aria/Presets/com.Garritan.Ambience:
+Ballroom 1.ariap
+Ballroom 2.ariap
+Cathedral.ariap
+Church.ariap
+Concert Hall 1.ariap
+Concert Hall 2.ariap
+Jazz Club 1.ariap
+Jazz Club 2.ariap
+Parlor.ariap
+Piano Hall 1.ariap
+Piano Hall 2.ariap
+Recital Hall 1.ariap
+Recital Hall 2.ariap
+
+.wine/drive_c/Program Files/VstPlugins:
+ace.dll
+
+.wine/drive_c/Program Files/Windows Media Player:
+wmplayer.exe
+
+.wine/drive_c/Program Files/Windows NT:
+Accessories
+
+.wine/drive_c/Program Files/Windows NT/Accessories:
+wordpad.exe
+
+.wine/drive_c/Program Files (x86):
+AirRack
+Balabolka
+Common Files
+eSpeak
+ExperimentalScene
+Internet Explorer
+Kreatives.org
+Microsoft Speech SDK 5.1
+ScanSoft
+Windows Media Player
+Windows NT
+
+.wine/drive_c/Program Files (x86)/AirRack:
+AirRackCHS.exe
+AirRack.exe
+akrip32.dll
+ASIODLL.dll
+GUIDLL.dll
+lame_enc.dll
+LIBDLL.dll
+libsamplerate.dll
+libsndfile.dll
+madxlib.dll
+manualc.pdf
+manuale.pdf
+MFC42.dll
+¸üÐÂ¼ÇÂ¼.txt
+unins000.dat
+unins000.exe
+VSTDLL.dll
+what's new.txt
+
+.wine/drive_c/Program Files (x86)/Balabolka:
+balabolka.exe
+BFileExt.dll
+help
+lame_enc.dll
+languages
+libeay32.dll
+libsamplerate.dll
+ogg.dll
+resources
+skins
+sounds
+ssleay32.dll
+syllable.dll
+uninstall.exe
+uninstall.log
+utils
+vorbis.dll
+vorbisenc.dll
+vorbisfile.dll
+
+.wine/drive_c/Program Files (x86)/Balabolka/help:
+English.chm
+French.chm
+German.chm
+Italian.chm
+Korean.chm
+Russian.chm
+Spanish.chm
+Ukrainian.chm
+
+.wine/drive_c/Program Files (x86)/Balabolka/languages:
+Arabic.lng
+Armenian.lng
+Bulgarian.lng
+Catalan.lng
+Chinese (Simplified).lng
+Chinese (Traditional).lng
+Croatian.lng
+Czech.lng
+Dutch.lng
+Filipino.lng
+Finnish.lng
+French.lng
+German.lng
+Greek.lng
+Hungarian.lng
+Italian.lng
+Japanese.lng
+Korean.lng
+Persian.lng
+Polish.lng
+Portuguese (Brazil).lng
+Portuguese (Portugal).lng
+Romanian.lng
+Russian.lng
+sample.txt
+Serbian (Cyrillic).lng
+Serbian (Latin).lng
+Slovenian.lng
+Spanish.lng
+Turkish.lng
+Ukrainian.lng
+Vietnamese.lng
+
+.wine/drive_c/Program Files (x86)/Balabolka/resources:
+16
+24
+
+.wine/drive_c/Program Files (x86)/Balabolka/resources/16:
+Add Current Line as Named Bookmark.bmp
+Audio Clip.bmp
+Audio Files.bmp
+Audio Output.bmp
+Batch File Converter.bmp
+Buttons.bmp
+Check for Update.bmp
+Clear History.bmp
+Clipboard Watch.bmp
+Close All.bmp
+Close All Except Current.bmp
+Close.bmp
+Compare Two Files.bmp
+Configure Voice.bmp
+Copy.bmp
+Create Table of Contents.bmp
+Cut.bmp
+Decrease Rate.bmp
+Direct Speech.bmp
+disabled
+Extract Text from Files.bmp
+File Splitter.bmp
+Find.bmp
+Find Homographs.bmp
+Find Names In Text.bmp
+Find Pairs of Rules.bmp
+Font and Colors.bmp
+Foreign Words.bmp
+Format Text.bmp
+Full Screen.bmp
+Go to Named Bookmark.bmp
+Go to Quick Bookmark.bmp
+Help.bmp
+ID3 Tags.bmp
+Images.bmp
+Increase Rate.bmp
+Insert Named Bookmark.bmp
+Insert Quick Bookmark.bmp
+Insert XML Tag.bmp
+List of Spelling Errors.bmp
+Lower Pitch.bmp
+Magnifier.bmp
+Make Lowercase.bmp
+Make Uppercase.bmp
+New.bmp
+Open.bmp
+Panel of Dictionaries.bmp
+Paste.bmp
+Pause.bmp
+Profiles.bmp
+Pronunciation.bmp
+Raise Pitch.bmp
+Read Aloud.bmp
+Read Clipboard Aloud.bmp
+Read Selected Text.bmp
+Remove All XML Tags.bmp
+Repeat Text.bmp
+Replace.bmp
+Replacement Statistics.bmp
+Replace Numbers with Words.bmp
+Reset Rate and Pitch.bmp
+Save All.bmp
+Save As.bmp
+Save Audio File.bmp
+Save Audio File (TTS).bmp
+Save.bmp
+Settings.bmp
+Skins.bmp
+Skip to Next Line.bmp
+Skip to Next Paragraph.bmp
+Skip to Previous Line.bmp
+Skip to Previous Paragraph.bmp
+Spell Checker.bmp
+Spell Checking.bmp
+Split and Convert to Audio Files.bmp
+Spritz-Reader.bmp
+Stop.bmp
+Subtitle Converter.bmp
+Text Import.bmp
+Timer.bmp
+Translate.bmp
+Turn Volume Down.bmp
+Turn Volume Up.bmp
+Undo.bmp
+View Changed Text.bmp
+
+.wine/drive_c/Program Files (x86)/Balabolka/resources/16/disabled:
+Copy.bmp
+Cut.bmp
+Go to Quick Bookmark.bmp
+Images.bmp
+Make Lowercase.bmp
+Make Uppercase.bmp
+Paste.bmp
+Pause.bmp
+Pronunciation.bmp
+Read Aloud.bmp
+Read Clipboard Aloud.bmp
+Read Selected Text.bmp
+Spell Checking.bmp
+Stop.bmp
+Undo.bmp
+
+.wine/drive_c/Program Files (x86)/Balabolka/resources/24:
+Add Current Line as Named Bookmark.bmp
+Audio Clip.bmp
+Audio Files.bmp
+Audio Output.bmp
+Batch File Converter.bmp
+Buttons.bmp
+Check for Update.bmp
+Clear History.bmp
+Clipboard Watch.bmp
+Close All.bmp
+Close All Except Current.bmp
+Close.bmp
+Compare Two Files.bmp
+Configure Voice.bmp
+Copy.bmp
+Create Table of Contents.bmp
+Cut.bmp
+Decrease Rate.bmp
+Direct Speech.bmp
+disabled
+Extract Text from Files.bmp
+File Splitter.bmp
+Find.bmp
+Find Homographs.bmp
+Find Names in Text.bmp
+Find Pairs of Rules.bmp
+Font and Colors.bmp
+Foreign Words.bmp
+Format Text.bmp
+Full Screen.bmp
+Go to Named Bookmark.bmp
+Go to Quick Bookmark.bmp
+Help.bmp
+ID3 Tags.bmp
+Images.bmp
+Increase Rate.bmp
+Insert Named Bookmark.bmp
+Insert Quick Bookmark.bmp
+Insert XML Tag.bmp
+List of Spelling Errors.bmp
+Lower Pitch.bmp
+Magnifier.bmp
+Make Lowercase.bmp
+Make Uppercase.bmp
+New.bmp
+Open.bmp
+Panel of Dictionaries.bmp
+Paste.bmp
+Pause.bmp
+Profiles.bmp
+Pronunciation.bmp
+Raise Pitch.bmp
+Read Aloud.bmp
+Read Clipboard Aloud.bmp
+Read Selected Text.bmp
+Remove All XML Tags.bmp
+Repeat Text.bmp
+Replace.bmp
+Replacement Statistics.bmp
+Replace Numbers with Words.bmp
+Reset Rate and Pitch.bmp
+Save All.bmp
+Save As.bmp
+Save Audio File.bmp
+Save Audio File (TTS).bmp
+Save.bmp
+Settings.bmp
+Skins.bmp
+Skip to Next Line.bmp
+Skip to Next Paragraph.bmp
+Skip to Previous Line.bmp
+Skip to Previous Paragraph.bmp
+Spell Checker.bmp
+Spell Checking.bmp
+Split and Convert to Audio Files.bmp
+Spritz-Reader.bmp
+Stop.bmp
+Subtitle Converter.bmp
+Text Import.bmp
+Timer.bmp
+Translate.bmp
+Turn Volume Down.bmp
+Turn Volume Up.bmp
+Undo.bmp
+View Changed Text.bmp
+
+.wine/drive_c/Program Files (x86)/Balabolka/resources/24/disabled:
+Copy.bmp
+Cut.bmp
+Go to Quick Bookmark.bmp
+Images.bmp
+Make Lowercase.bmp
+Make Uppercase.bmp
+Paste.bmp
+Pause.bmp
+Pronunciation.bmp
+Read Aloud.bmp
+Read Clipboard Aloud.bmp
+Read Selected Text.bmp
+Spell Checking.bmp
+Stop.bmp
+Undo.bmp
+
+.wine/drive_c/Program Files (x86)/Balabolka/skins:
+Air.asz
+AutumnSky.asz
+Black Box.asz
+BlueGauze.asz
+FM.asz
+Moonlight.asz
+Neutral.asz
+Sapphire.asz
+Subway.asz
+Vienna.asz
+WEB.asz
+WLM.asz
+
+.wine/drive_c/Program Files (x86)/Balabolka/sounds:
+error.wav
+finish.wav
+timer.wav
+
+.wine/drive_c/Program Files (x86)/Balabolka/utils:
+chsdet.dll
+ddjvu.exe
+freetype6.dll
+hunspell.dll
+iconv.dll
+intl.dll
+libcairo-2.dll
+libcroco-0.6-3.dll
+libdjvulibre.dll
+libexpat-1.dll
+libfontconfig-1.dll
+libgdk_pixbuf-2.0-0.dll
+libgio-2.0-0.dll
+libglib-2.0-0.dll
+libgmodule-2.0-0.dll
+libgobject-2.0-0.dll
+libgthread-2.0-0.dll
+libjpeg.dll
+libpango-1.0-0.dll
+libpangocairo-1.0-0.dll
+libpangoft2-1.0-0.dll
+libpangowin32-1.0-0.dll
+libpng14-14.dll
+librsvg-2-2.dll
+libtiff.dll
+libxml2-2.dll
+libz.dll
+MMConverterCon.exe
+mp4chaps.exe
+mp4lib.dll
+MultimediaConverter.dll
+neroAacEnc.exe
+neroAacTag.exe
+pdfimages.exe
+syspin.exe
+unrar.dll
+viewer.exe
+zlib1.dll
+
+.wine/drive_c/Program Files (x86)/Common Files:
+Digidesign
+InstallShield
+microsoft shared
+SpeechEngines
+VST2
+
+.wine/drive_c/Program Files (x86)/Common Files/Digidesign:
+DAE
+
+.wine/drive_c/Program Files (x86)/Common Files/Digidesign/DAE:
+Plug-Ins
+
+.wine/drive_c/Program Files (x86)/Common Files/Digidesign/DAE/Plug-Ins:
+AlterEgo RTAS_x86.dpm
+
+.wine/drive_c/Program Files (x86)/Common Files/InstallShield:
+Driver
+
+.wine/drive_c/Program Files (x86)/Common Files/InstallShield/Driver:
+1050
+
+.wine/drive_c/Program Files (x86)/Common Files/InstallShield/Driver/1050:
+Intel 32
+
+.wine/drive_c/Program Files (x86)/Common Files/InstallShield/Driver/1050/Intel 32:
+ID
+IDriver2.exe
+IDriver.exe
+IDriverT.exe
+iGdiCnv.dll
+IScrCnv.dll
+_ISRES1033.dll
+ISRT.dll
+IUserCnv.dll
+objpscnv.dll
+
+.wine/drive_c/Program Files (x86)/Common Files/microsoft shared:
+Speech
+SpeechEngines
+
+.wine/drive_c/Program Files (x86)/Common Files/microsoft shared/Speech:
+sapi.pdb
+sapi.sym
+
+.wine/drive_c/Program Files (x86)/Common Files/microsoft shared/SpeechEngines:
+TTS
+
+.wine/drive_c/Program Files (x86)/Common Files/microsoft shared/SpeechEngines/TTS:
+female8.cfg
+female8.vce
+female.cfg
+female.vce
+male8.cfg
+male8.vce
+male.cfg
+male.vce
+msttssyn.dll
+sam.cfg
+sam.vce
+wraptts.dll
+wttsa22.dll
+wttsf22.dll
+wttsm22.dll
+wttsmm.dll
+wttss22.dll
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines:
+Microsoft
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft:
+Lexicon
+SR
+TTS
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/Lexicon:
+1033
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/Lexicon/1033:
+lsr1033.lxa
+r1033sr.lxa
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/SR:
+1033
+spsreng.dll
+spsrx.dll
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/SR/1033:
+AF031033.am
+af031033.env
+af031033.nsc
+AI041033.am
+ai041033.env
+ai041033.nsc
+AM031033.am
+am031033.env
+am031033.nsc
+CI031033.am
+ci031033.env
+ci031033.nsc
+itngram.dll
+l1033.adc
+l1033.art
+l1033.cw
+l1033.dlm
+l1033.ini
+l1033.ngr
+l1033.phn
+l1033.smp
+l1033.tre
+l1033.vec
+p1033.dlm
+p1033.ngr
+s1033.dlm
+s1033.ngr
+spsrxui.dll
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/TTS:
+1033
+
+.wine/drive_c/Program Files (x86)/Common Files/SpeechEngines/Microsoft/TTS/1033:
+Mary.SDF
+Mary.SPD
+Mike.SDF
+Mike.SPD
+
+.wine/drive_c/Program Files (x86)/Common Files/VST2:
+Plogue Art et Technologie, Inc
+
+.wine/drive_c/Program Files (x86)/Common Files/VST2/Plogue Art et Technologie, Inc:
+AlterEgo VST_x86.dll
+
+.wine/drive_c/Program Files (x86)/eSpeak:
+ChangeLog.txt
+command_line
+dictsource
+docs
+espeak-data
+espeak_sapi.dll
+License.txt
+Readme.txt
+TTSApp.exe
+unins000.dat
+unins000.exe
+
+.wine/drive_c/Program Files (x86)/eSpeak/command_line:
+espeak.exe
+
+.wine/drive_c/Program Files (x86)/eSpeak/dictsource:
+af_list
+af_rules
+am_list
+am_rules
+an_list
+an_rules
+as_list
+as_rules
+az_list
+az_rules
+bg_list
+bg_listx
+bg_rules
+bn_list
+bn_rules
+ca_list
+ca_rules
+cs_list
+cs_rules
+cy_list
+cy_rules
+da_list
+da_rules
+de_list
+de_rules
+dict_log
+dict_phonemes
+el_list
+el_rules
+en_list
+en_rules
+eo_list
+eo_rules
+es_list
+es_rules
+et_list
+et_rules
+eu_list
+eu_rules
+fa_list
+fa_rules
+fi_list
+fi_rules
+fr_list
+fr_rules
+ga_list
+ga_rules
+gd_list
+gd_rules
+grc_list
+grc_rules
+gu_list
+gu_rules
+hbs_list
+hbs_rules
+hi_list
+hi_rules
+hu_list
+hu_rules
+hy_list
+hy_rules
+id_list
+id_rules
+is_list
+is_rules
+it_list
+it_listx
+it_rules
+jbo_list
+jbo_rules
+ka_list
+ka_rules
+kl_list
+kl_rules
+kn_list
+kn_rules
+ko_list
+ko_rules
+ku_list
+ku_rules
+la_list
+la_rules
+lfn_list
+lfn_rules
+lt_list
+lt_rules
+lv_list
+lv_rules
+mk_list
+mk_rules
+ml_list
+ml_rules
+ms_list
+ms_rules
+nci_list
+nci_rules
+ne_list
+ne_rules
+nl_list
+nl_rules
+no_list
+no_rules
+or_list
+or_rules
+pa_list
+pap_list
+pap_rules
+pa_rules
+pl_list
+pl_rules
+pt_list
+pt_rules
+ReadMe
+ro_list
+ro_rules
+ru_list
+ru_rules
+si_list
+si_rules
+sk_list
+sk_rules
+sl_list
+sl_rules
+sq_list
+sq_rules
+sv_list
+sv_rules
+sw_list
+sw_rules
+ta_list
+ta_rules
+te_list
+te_rules
+tr_list
+tr_rules
+ur_list
+ur_rules
+vi_list
+vi_rules
+zh_list
+zh_rules
+zhy_rules
+
+.wine/drive_c/Program Files (x86)/eSpeak/docs:
+add_language.html
+analyse.html
+commands.html
+dictionary.html
+docindex.html
+editor.html
+editor_if.html
+images
+index.html
+intonation.html
+languages.html
+mbrola.html
+phonemes.html
+phontab.html
+speak_lib.h
+ssml.html
+voices.html
+
+.wine/drive_c/Program Files (x86)/eSpeak/docs/images:
+lips.png
+sand-light.jpg
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data:
+af_dict
+am_dict
+an_dict
+as_dict
+az_dict
+bg_dict
+bn_dict
+ca_dict
+cs_dict
+cy_dict
+da_dict
+de_dict
+el_dict
+en_dict
+eo_dict
+es_dict
+et_dict
+eu_dict
+fa_dict
+fi_dict
+fr_dict
+ga_dict
+gd_dict
+grc_dict
+gu_dict
+hbs_dict
+hi_dict
+hu_dict
+hy_dict
+id_dict
+intonations
+is_dict
+it_dict
+jbo_dict
+ka_dict
+kl_dict
+kn_dict
+ko_dict
+ku_dict
+la_dict
+lfn_dict
+lt_dict
+lv_dict
+mbrola
+mbrola_ph
+mk_dict
+ml_dict
+ms_dict
+nci_dict
+ne_dict
+nl_dict
+no_dict
+or_dict
+pa_dict
+pap_dict
+phondata
+phondata-manifest
+phonindex
+phontab
+pl_dict
+pt_dict
+ro_dict
+ru_dict
+si_dict
+sk_dict
+sl_dict
+soundicons
+sq_dict
+sv_dict
+sw_dict
+ta_dict
+te_dict
+tr_dict
+ur_dict
+vi_dict
+voices
+zh_dict
+zhy_dict
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/mbrola:
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/mbrola_ph:
+af1_phtrans
+ca1_phtrans
+cr1_phtrans
+cs_phtrans
+de2_phtrans
+de4_phtrans
+de6_phtrans
+ee1_phtrans
+en1_phtrans
+es_phtrans
+fr1_phtrans
+gr2_phtrans
+grc-de6_phtrans
+hn1_phtrans
+hu1_phtrans
+ic1_phtrans
+id1_phtrans
+in1_phtrans
+ir1_phtrans
+it3_phtrans
+la1_phtrans
+lt1_phtrans
+lt2_phtrans
+mx1_phtrans
+mx2_phtrans
+nl_phtrans
+pl1_phtrans
+pt1_phtrans
+ptbr4_phtrans
+ptbr_phtrans
+pt_phtrans
+ro1_phtrans
+sv2_phtrans
+sv_phtrans
+tr1_phtrans
+us3_phtrans
+us_phtrans
+vz_phtrans
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/soundicons:
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices:
+asia
+de
+default
+en
+en-us
+es-la
+europe
+fr
+mb
+other
+pt
+test
+!v
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/asia:
+fa
+fa-pin
+hi
+hy
+hy-west
+id
+ka
+kn
+ku
+ml
+ms
+ne
+pa
+ta
+tr
+vi
+vi-hue
+vi-sgn
+zh
+zh-yue
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/europe:
+an
+bg
+bs
+ca
+cs
+cy
+da
+el
+es
+et
+fi
+fr-be
+ga
+hr
+hu
+is
+it
+lt
+lv
+mk
+nl
+no
+pl
+pt-pt
+ro
+ru
+sk
+sq
+sr
+sv
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/mb:
+mb-af1
+mb-af1-en
+mb-br1
+mb-br3
+mb-br4
+mb-cr1
+mb-cz2
+mb-de2
+mb-de3
+mb-de4
+mb-de4-en
+mb-de5
+mb-de5-en
+mb-de6
+mb-de6-grc
+mb-de7
+mb-ee1
+mb-en1
+mb-es1
+mb-es2
+mb-fr1
+mb-fr1-en
+mb-fr4
+mb-fr4-en
+mb-gr2
+mb-gr2-en
+mb-hu1
+mb-hu1-en
+mb-ic1
+mb-id1
+mb-ir1
+mb-ir2
+mb-it3
+mb-it4
+mb-la1
+mb-mx1
+mb-mx2
+mb-nl2
+mb-nl2-en
+mb-pl1
+mb-pl1-en
+mb-pt1
+mb-ro1
+mb-ro1-en
+mb-sw1
+mb-sw1-en
+mb-sw2
+mb-sw2-en
+mb-tr1
+mb-tr2
+mb-us1
+mb-us2
+mb-us3
+mb-vz1
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/other:
+af
+en-n
+en-rp
+en-sc
+en-wi
+en-wm
+eo
+grc
+jbo
+la
+lfn
+sw
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/test:
+am
+as
+az
+bn
+eu
+gd
+gu
+kl
+ko
+nci
+or
+pap
+si
+sl
+te
+ur
+
+.wine/drive_c/Program Files (x86)/eSpeak/espeak-data/voices/!v:
+croak
+f1
+f2
+f3
+f4
+f5
+klatt
+klatt2
+klatt3
+klatt4
+m1
+m2
+m3
+m4
+m5
+m6
+m7
+whisper
+whisperf
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene:
+DarkWave Studio
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio:
+ClearOptions.exe
+Sample Projects
+Uninstall.exe
+x64
+x86
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/Sample Projects:
+Arpeggiator.dwp
+BassHead Formant Filter.dwp
+Chemistry 101.dwp
+Chemistry 202.dwp
+Chemistry 303.dwp
+Crash Drums.dwp
+Crunch.dwp
+DrumDistort.dwp
+Just Bass 2.dwp
+Just Bass.dwp
+Just Drums.dwp
+PsyRave.dwp
+RaveTech.dwp
+Space Academy 2.dwp
+Space Academy.dwp
+StereoSplitter.dwp
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x64:
+DarkWave-Studio.exe
+PlugIns
+VST
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x64/PlugIns:
+ES-CoreMachines.dll
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x64/VST:
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x86:
+DarkWave-Studio.exe
+PlugIns
+VST
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x86/PlugIns:
+ES-CoreMachines.dll
+
+.wine/drive_c/Program Files (x86)/ExperimentalScene/DarkWave Studio/x86/VST:
+
+.wine/drive_c/Program Files (x86)/Internet Explorer:
+iexplore.exe
+
+.wine/drive_c/Program Files (x86)/Kreatives.org:
+KRISTAL Audio Engine
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine:
+AudioCodecs
+Demo Songs
+DEVICES.INI
+Help
+history.txt
+KRISTAL.exe
+License
+Plugins
+Presets
+Uninstall.exe
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/AudioCodecs:
+flac.acodec
+ogg.acodec
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Demo Songs:
+It kristalized me
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Demo Songs/It kristalized me:
+It kristalized me.kristal
+Media
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Demo Songs/It kristalized me/Media:
+Bass_0.ogg
+Bass_0.ogg.peak
+HeavyBD1.ogg
+HeavyBD1.ogg.peak
+HeavyHH.ogg
+HeavyHH.ogg.peak
+HeavySn.ogg
+HeavySn.ogg.peak
+Lead_0.ogg
+Lead_0.ogg.peak
+Lead Synth_2.ogg
+Lead Synth_2.ogg.peak
+Rythm 2_0.ogg
+Rythm 2_0.ogg.peak
+Rythm_2.ogg
+Rythm_2.ogg.peak
+TB Synth_3.ogg
+TB Synth_3.ogg.peak
+Vocal_0.ogg
+Vocal_0.ogg.peak
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help:
+common
+eng
+index.html
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/common:
+gfx
+style.css
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/common/gfx:
+1.gif
+2.gif
+3.gif
+4.gif
+5.gif
+6.gif
+kreatives.gif
+kristal_gray.gif
+more2.gif
+more.gif
+tip.gif
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng:
+commands.html
+components.html
+effects
+eq.html
+gfx
+livein
+menu.html
+mixer.html
+preferences.html
+screens
+transport.html
+tutorial
+waver
+welcome.html
+whatis.html
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/effects:
+chorus.html
+kristalizer.html
+multidelay.html
+reverb.html
+screens
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/effects/screens:
+chorus.jpg
+delay_section.jpg
+filter_section.jpg
+kristalizer.jpg
+multidelay.jpg
+reverb.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/gfx:
+logo_manual.gif
+logo_manual_small.gif
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/livein:
+livein.html
+screens
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/livein/screens:
+livein.jpg
+livein_select.jpg
+live_setup.jpg
+stereo.gif
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens:
+effects
+eq
+main_components.jpg
+mixer
+prefs
+transport
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens/effects:
+load_button.gif
+save_button.gif
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens/eq:
+eq_bands.jpg
+eq_curve.jpg
+eq.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens/mixer:
+a_button.gif
+audio_inputs.jpg
+audio_output.jpg
+channel_pan.jpg
+channel_volume.jpg
+e_button.gif
+mixer.jpg
+performance.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens/prefs:
+asio_channels.jpg
+asio_setup.jpg
+devices.jpg
+knob_circular.jpg
+knob_linear.jpg
+mme_setup.jpg
+prefs.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/screens/transport:
+cycle.gif
+forward.gif
+jend.gif
+jstart.gif
+m_button.gif
+metronome.jpg
+play.gif
+precount.gif
+record.gif
+rewind.gif
+stop.gif
+time_display.jpg
+transport.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial:
+asio.html
+effects.html
+mixdown.html
+project.html
+recording.html
+screens
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial/screens:
+effects
+mixdown
+project
+recording
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial/screens/effects:
+effect_editor.jpg
+effect_presets.jpg
+next_button.gif
+prev_button.gif
+select_effect.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial/screens/mixdown:
+bounced_part.jpg
+bounce_selection.jpg
+format.jpg
+locators.jpg
+more_formats.jpg
+progress.jpg
+rubber_select.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial/screens/project:
+compression.jpg
+projectinfo.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/tutorial/screens/recording:
+monitor.jpg
+rec_button2.jpg
+rec_button.jpg
+record_enabled.jpg
+record_finished.jpg
+select_asio.jpg
+select_input.jpg
+select_waver.jpg
+start_record.jpg
+stop_button.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/waver:
+arrangement.html
+audiopart.html
+screens
+toolbar.html
+trackcontrols.html
+waver.html
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Help/eng/waver/screens:
+arrangement.jpg
+audiopart.gif
+autoscroll.jpg
+connect.gif
+cut_button.jpg
+cut.gif
+edit_history.jpg
+folderpart.gif
+glue_button.jpg
+glue_example.jpg
+glue.gif
+history_button.jpg
+import_button.gif
+infoline.jpg
+monitor.gif
+mono.gif
+open_button.jpg
+part_fade.jpg
+part_volume.jpg
+pool_button.jpg
+pool_small.jpg
+record.gif
+resize_part.jpg
+save_button.jpg
+select_button.jpg
+select.gif
+snap_button.jpg
+snap_menu.jpg
+stereo.gif
+timebase_button1.jpg
+timebase_button2.jpg
+timeruler.jpg
+toolbar.jpg
+trackcontrols.jpg
+track_input.jpg
+waver.jpg
+zoom_in.jpg
+zoom_out.jpg
+zoomstrip.jpg
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/License:
+Expat License.txt
+KRISTAL License.txt
+Ogg Vorbis License.txt
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Plugins:
+KristalChorus.dll
+KristalEQ.dll
+Kristalizer.dll
+KristalMultiDelay.dll
+KristalReverb.dll
+LiveIn.cin
+Waver.cin
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Presets:
+KristalMultiDelay
+
+.wine/drive_c/Program Files (x86)/Kreatives.org/KRISTAL Audio Engine/Presets/KristalMultiDelay:
+Genious Doubling Machine.fxp
+KristalMultiDelay.fxb
+Stereo Double Notch.fxp
+Stereo Full Filter.fxp
+Stereo LP Filter Bank.fxp
+Stereo Resonator.fxp
+Stereo Wet to Dry Radio to Hifi.fxp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1:
+Bin
+Docs
+IDL
+Include
+Lib
+Samples
+Tools
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Bin:
+aoesapi.exe
+audioapp.exe
+Coffees0.exe
+Coffees1.exe
+Coffees2.exe
+Coffees3.exe
+Coffees4.exe
+Coffees5.exe
+Coffees6.exe
+dictpad.exe
+gc.exe
+GramComp.exe
+MkVoice.exe
+Reco.exe
+recovb.exe
+SAPI51ListBox.ocx
+SAPI51SampleApp.exe
+SapiTapi.exe
+simpleaudio.dll
+SimpleDict.exe
+SimpleDictVB.exe
+SimpleTelephony.exe
+simpletts.exe
+SREng.dll
+STCustomStream.dll
+TalkBack.exe
+TTSApp.exe
+TTSAppVB.exe
+TTSEng.dll
+VBOutGoingCall.exe
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Docs:
+Help
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Docs/Help:
+sapi.chm
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/IDL:
+sapiaut.idl
+sapiddk.idl
+sapi.idl
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Include:
+sapiddk.h
+sapi.h
+spcollec.h
+Spddkhlp.h
+spdebug.h
+sperror.h
+speventq.h
+sphelper.h
+spuihelp.h
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Lib:
+i386
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Lib/i386:
+sapi.lib
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples:
+Common
+CPP
+CSharp
+Scripts
+VB
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/Common:
+sol.xml
+TTSXmlDemo.xml
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP:
+Common
+DictPad
+Engines
+Reco
+SimpleAudioDll
+SimpleDict
+SimpleTelephony
+TalkBack
+TapiCustomStream
+TTSApp
+Tutorials
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Common:
+componentversiondlg.cpp
+sapisdkcommon.h
+sapisdkcommon.rc2
+sapisdkcommonresources.h
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/DictPad:
+candidatelist.cpp
+candidatelist.h
+chs_cmdmode.xml
+chs_dictmode.xml
+chs_dictpad.rc
+cmdmode.xml
+dictationrun.cpp
+dictationrun.h
+dictmode.xml
+dictpad.aps
+dictpad.cpp
+dictpad.dsp
+dictpad.h
+dictpad.ico
+dictpad.rc
+dictpad_sapi.cpp
+jpn_cmdmode.xml
+jpn_dictmode.xml
+jpn_dictpad.rc
+phrasereplace.cpp
+phrasereplace.h
+readme.txt
+recomgr.cpp
+recomgr.h
+resource.h
+resultcontainer.cpp
+resultcontainer.h
+small.ico
+stdafx.cpp
+stdafx.h
+textrun.cpp
+textrun.h
+textrunlist.cpp
+textrunlist.h
+tom.h
+tom_i.c
+toolbar1.bmp
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Engines:
+SR
+TTS
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Engines/SR:
+resource.h
+srengalt.cpp
+srengalt.h
+srengalt.rgs
+sreng.cpp
+sreng.def
+sreng.dsp
+srengext.cpp
+srengext.h
+srengext.rgs
+sreng.idl
+srengobj.cpp
+srengobj.h
+sreng.rc
+sreng.rgs
+srengui.cpp
+srengui.h
+srengui.rgs
+srengver.h
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Engines/TTS:
+MkVoice
+resource.h
+SampleVoice.vce
+stdafx.cpp
+stdafx.h
+ttseng.cpp
+ttseng.def
+ttseng.dsp
+ttseng.idl
+ttsengobj.cpp
+ttsengobj.h
+ttsengobj.rgs
+ttseng.rc
+ttsengver.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Engines/TTS/MkVoice:
+anglais.wav
+as.wav
+blah.wav
+computer_s.wav
+default.wav
+enter.wav
+have.wav
+here.wav
+he.wav
+je.wav
+mkvoice.cpp
+mkvoice.dsp
+mkvoice.rc
+parler.wav
+peut.wav
+said.wav
+sample.wav
+selected.wav
+she.wav
+speak.wav
+spoken.wav
+stdafx.cpp
+stdafx.h
+text.wav
+the.wav
+to.wav
+tts.wav
+type.wav
+version.rc2
+voice.wav
+wish.wav
+wordlist.txt
+you.wav
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Reco:
+chs_reco.rc
+chs_sol.xml
+itn_j.xml
+jpn_reco.rc
+jpn_sol.xml
+lmadapt.cpp
+reco.cpp
+reco.dsp
+reco.h
+reco.ico
+reco.rc
+resource.h
+small.ico
+sol.xml
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/SimpleAudioDll:
+resource.h
+simpleaudio.cpp
+simpleaudio.def
+simpleaudio.dsp
+simpleaudio.idl
+simpleaudio.rc
+SpAudioPlug.cpp
+SpAudioPlug.h
+SpAudioPlug.rgs
+StdAfx.cpp
+StdAfx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/SimpleDict:
+resource.h
+simpledict.cpp
+simpledict.dsp
+simpledict.h
+simpledict.ico
+simpledict.rc
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/SimpleTelephony:
+callnot.cpp
+callnot.h
+operator.cpp
+operator.h
+resource.h
+simpletelephony.dsp
+simpletelephony.ico
+simpletelephony.rc
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/TalkBack:
+talkback.cpp
+talkback.dsp
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/TapiCustomStream:
+ASRStream.cpp
+ASRStream.h
+ASRStream.rgs
+resource.h
+STCustomStream.cpp
+STCustomStream.def
+STCustomStream.dsp
+STCustomStream.idl
+STCustomStream.rc
+StdAfx.cpp
+StdAfx.h
+TTSStream.cpp
+TTSStream.h
+TTSStream.rgs
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/TTSApp:
+childwin.cpp
+dlgmain.cpp
+globals.cpp
+globals.h
+Res
+resource.h
+textserv.h
+tom.h
+ttsapp.dsp
+ttsapp.h
+ttsapp.rc
+version.rc2
+winmain.cpp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/TTSApp/Res:
+appicon.ico
+mic.bmp
+mic eyes closed.bmp
+mic_eyes_narrow.bmp
+mic_mouth_10.bmp
+mic_mouth_11.bmp
+mic_mouth_12.bmp
+mic_mouth_13.bmp
+mic_mouth_2.bmp
+mic_mouth_3.bmp
+mic_mouth_4.bmp
+mic_mouth_5.bmp
+mic_mouth_6.bmp
+mic_mouth_7.bmp
+mic_mouth_8.bmp
+mic_mouth_9.bmp
+mouthclo.bmp
+mouthmed.bmp
+mouthnar.bmp
+mouthop1.bmp
+mouthop2.bmp
+mouthop3.bmp
+mouthop4.bmp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials:
+CoffeeS0
+CoffeeS1
+CoffeeS2
+CoffeeS3
+CoffeeS4
+CoffeeS5
+CoffeeS6
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS0:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees0.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS1:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees1.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS2:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees2.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS3:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees3.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS4:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees4.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS5:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees5.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CPP/Tutorials/CoffeeS6:
+coffee.bmp
+coffee.cpp
+coffee.h
+coffee.ico
+coffee.rc
+coffees6.dsp
+coffee.xml
+common.h
+display.cpp
+resource.h
+small.ico
+stdafx.cpp
+stdafx.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CSharp:
+Listbox
+SimpleTTS
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CSharp/Listbox:
+control
+ListBoxCSharp.sln
+testapp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CSharp/Listbox/control:
+assemblyinfo.cs
+small.ico
+SpeechListBox.cs
+SpeechListBox.csproj
+SpeechListBox.resx
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CSharp/Listbox/testapp:
+AssemblyInfo.cs
+MainForm.cs
+MainForm.resx
+small.ico
+TestApp.csproj
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/CSharp/SimpleTTS:
+AssemblyInfo.cs
+MainForm.cs
+MainForm.resx
+SimpleTTS.csproj
+SimpleTTS.sln
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/Scripts:
+SimpleTTS
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/Scripts/SimpleTTS:
+mouthclo.bmp
+mouthmed.bmp
+mouthnar.bmp
+mouthop1.bmp
+mouthop2.bmp
+mouthop3.bmp
+mouthop4.bmp
+SimpleTTS.html
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB:
+AudioApp
+ListboxVB
+RecoVB
+SimpleDict
+SimpleTTS
+TTSAppVB
+VBTAPISamples
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/AudioApp:
+AudioApp.bas
+AudioAppFrm.frm
+AudioAppFrm.frx
+audioapp.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/ListboxVB:
+ListboxSampleApp.frm
+ListBoxSampleApp.frx
+ListboxSample.vbg
+Sample.ctl
+SAPI51Listbox.vbp
+SAPI51SampleApp.vbp
+small.ico
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/RecoVB:
+recovb.frm
+recovb.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/SimpleDict:
+SimpleDict.frm
+SimpleDict.frx
+SimpleDictVB.vbp
+small.ico
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/SimpleTTS:
+SimpleTTS.frm
+SimpleTTS.frx
+SimpleTTS.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/TTSAppVB:
+TTSAppMain.frm
+TTSAppMain.frx
+TTSAppMod.bas
+ttsapp.RES
+ttsapp.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/VBTAPISamples:
+OutgoingCall
+SAPITAPIWithInternetCall
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/VBTAPISamples/OutgoingCall:
+VBOutgoingcall.frm
+VBOutgoingcall.frx
+VBOutGoingCall.RES
+VBOutGoingCall.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Samples/VB/VBTAPISamples/SAPITAPIWithInternetCall:
+SapiTapi.frm
+SapiTapi.frx
+SapiTapi.RES
+SapiTapi.vbp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools:
+Comp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp:
+Bin
+Common
+Resources
+SR
+TTS
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Bin:
+kato.dll
+spcomp.exe
+srcomp.dll
+srcompopt.bat
+srcompopt.pro
+srcompreq.bat
+srcompreq.pro
+ttscomp.dll
+ttscompopt.bat
+ttscompopt.pro
+ttscompreq.bat
+ttscompreq.pro
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Common:
+CPP
+Def
+Include
+Lib
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Common/CPP:
+tuxdll.cpp
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Common/Def:
+srcomp.def
+ttscomp.def
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Common/Include:
+kato.h
+tux.h
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Common/Lib:
+kato.lib
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/Resources:
+applex.wav
+audioformats.wav
+autopause.wav
+black.wav
+checkevents.wav
+invalidaterule_j.wav
+lexicon_j.wav
+lexicon.wav
+multireco_j.wav
+multireco.wav
+oboe.wav
+playblack.wav
+play.wav
+pleasewalk.wav
+please.wav
+put.wav
+red.wav
+selcity.wav
+selcity.xml
+seven.wav
+silence.wav
+snork_j.xml
+snork.wav
+snork.xml
+tag_exprule_j.wav
+tag_exprule_j.xml
+tag_exprule.wav
+tag_exprule.xml
+tag_l_j.wav
+tag_l_j.xml
+tag_l.wav
+tag_l.xml
+tag_o1_j.wav
+tag_o1.wav
+tag_o2_j.wav
+tag_o2.wav
+tag_o3_j.wav
+tag_o3.wav
+tag_o_j.xml
+tag_o.xml
+tag_p1_j.xml
+tag_p1.xml
+tag_p2_j.xml
+tag_p2.xml
+tag_p_j.wav
+tag_p.wav
+tag_rule_j.wav
+tag_rule_j.xml
+tag_rule.wav
+tag_rule.xml
+test.wav
+walkslowly.wav
+walk.wav
+white.wav
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/SR:
+resource.h
+srcomp.cpp
+srcomp.rc
+sr.dsp
+srenginecompliance.cpp
+srenginecompliance.h
+srtests1.h
+version.rc2
+
+.wine/drive_c/Program Files (x86)/Microsoft Speech SDK 5.1/Tools/Comp/TTS:
+audiostate.cpp
+compevents.cpp
+f0d.lib
+f0.h
+f0r.lib
+ispttsengine.cpp
+lexicon.cpp
+realtime.cpp
+resource.h
+spgeterrormsg.cpp
+spgeterrormsg.h
+stress.cpp
+ttscomp.cpp
+ttscomp.h
+ttscomp.rc
+tts.dsp
+ttsmarkup.cpp
+version.rc2
+
+.wine/drive_c/Program Files (x86)/ScanSoft:
+RealSpeakSolov4
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4:
+speech
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech:
+components
+rssolov4
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components:
+common
+conv
+data
+g2p
+pp
+synthesizer
+voicefont
+xlit
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/common:
+combrk.dll
+comrsrc.dll
+dcteg.dll
+edct.dll
+rs_sapi5_solo.dll
+ttsengine.dll
+xcoder.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/conv:
+sapi5_conv_eng.dat
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/data:
+Emily.dat
+us_emily_r40_112mrf16_04.dat
+vf_emily_r40_112mrf16_232_04.dat
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/g2p:
+g2p_eng.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/pp:
+empp_eng.dll
+stdpp_eng.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/synthesizer:
+synth_112mrf16.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/voicefont:
+vf_emily_red.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/components/xlit:
+xlit_1252.dll
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/rssolov4:
+common
+eng
+realspeaksolo.hdr
+synthesizer
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/rssolov4/common:
+rssolo_dcteg.hdr
+rssolo_edct.hdr
+rssolo_ttsengine.hdr
+rssolo_xcoder.hdr
+rssolo_xlit_1252.hdr
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/rssolov4/eng:
+rssolo_empp_eng.hdr
+rssolo_eng.hdr
+rssolo_g2p_eng.hdr
+rssolo_stdpp_eng.hdr
+rssolo_us_emily_r40_112mrf16_04.hdr
+rssolo_vf_emily_r40_112mrf16_232_04.hdr
+rssolo_vf_emily_red.hdr
+rssolo_xlit_eng.hdr
+sapi5_conv_eng.hdr
+
+.wine/drive_c/Program Files (x86)/ScanSoft/RealSpeakSolov4/speech/rssolov4/synthesizer:
+rssolo_synth_112mrf16.hdr
+
+.wine/drive_c/Program Files (x86)/Windows Media Player:
+wmplayer.exe
+
+.wine/drive_c/Program Files (x86)/Windows NT:
+Accessories
+
+.wine/drive_c/Program Files (x86)/Windows NT/Accessories:
+wordpad.exe
+
+.wine/drive_c/users:
+Public
+ty
+
+.wine/drive_c/users/Public:
+Application Data
+Desktop
+Documents
+Favorites
+Music
+Pictures
+Start Menu
+Templates
+Videos
+
+.wine/drive_c/users/Public/Application Data:
+Microsoft
+
+.wine/drive_c/users/Public/Application Data/Microsoft:
+
+.wine/drive_c/users/Public/Desktop:
+AlterEgo.lnk
+AlterEgo x64.lnk
+
+.wine/drive_c/users/Public/Documents:
+
+.wine/drive_c/users/Public/Favorites:
+
+.wine/drive_c/users/Public/Music:
+
+.wine/drive_c/users/Public/Pictures:
+
+.wine/drive_c/users/Public/Start Menu:
+Programs
+
+.wine/drive_c/users/Public/Start Menu/Programs:
+Administrative Tools
+AirRack
+eSpeak
+Plogue
+StartUp
+
+.wine/drive_c/users/Public/Start Menu/Programs/Administrative Tools:
+
+.wine/drive_c/users/Public/Start Menu/Programs/AirRack:
+AirRack.lnk
+AirRack ÖÐÎÄ°æ.lnk
+ÓÃ»§ÊÖ²á.lnk
+¸üÐÂ¼ÇÂ¼.lnk
+Uninstall AirRack.lnk
+User Manual.lnk
+what's new.lnk
+
+.wine/drive_c/users/Public/Start Menu/Programs/eSpeak:
+TTSApp.lnk
+
+.wine/drive_c/users/Public/Start Menu/Programs/Plogue:
+AlterEgo
+
+.wine/drive_c/users/Public/Start Menu/Programs/Plogue/AlterEgo:
+AlterEgo.lnk
+AlterEgo x64.lnk
+Generate logs.lnk
+Online Support.lnk
+Uninstall.lnk
+
+.wine/drive_c/users/Public/Start Menu/Programs/StartUp:
+
+.wine/drive_c/users/Public/Templates:
+
+.wine/drive_c/users/Public/Videos:
+
+.wine/drive_c/users/ty:
+AppData
+Application Data
+Contacts
+Cookies
+Desktop
+Downloads
+Favorites
+Links
+Local Settings
+My Documents
+My Music
+My Pictures
+My Videos
+NetHood
+PrintHood
+Recent
+Saved Games
+Searches
+SendTo
+Start Menu
+Temp
+Templates
+
+.wine/drive_c/users/ty/AppData:
+LocalLow
+
+.wine/drive_c/users/ty/AppData/LocalLow:
+
+.wine/drive_c/users/ty/Application Data:
+Balabolka
+DarkWave Studio
+Maize Sampler Player
+Microsoft
+Plogue
+Plogue Art et Technologie, Inc
+
+.wine/drive_c/users/ty/Application Data/Balabolka:
+balabolka.cfg
+balabolka.dat
+balabolka.echo
+viewer.cfg
+
+.wine/drive_c/users/ty/Application Data/DarkWave Studio:
+DarkWave.opt
+
+.wine/drive_c/users/ty/Application Data/Maize Sampler Player:
+pluginsettings.dat
+
+.wine/drive_c/users/ty/Application Data/Microsoft:
+Internet Explorer
+
+.wine/drive_c/users/ty/Application Data/Microsoft/Internet Explorer:
+Quick Launch
+
+.wine/drive_c/users/ty/Application Data/Microsoft/Internet Explorer/Quick Launch:
+AlterEgo.lnk
+Balabolka.lnk
+
+.wine/drive_c/users/ty/Application Data/Plogue:
+Aria
+
+.wine/drive_c/users/ty/Application Data/Plogue/Aria:
+AriaEngine_AlterEgo.log
+AriaEngine_AlterEgo.log_Mon Jan 15 19_41_39 2018.log
+AriaEngine_AlterEgo x64.log
+ariapluginsfilelist_x64.cache
+ariapluginsfilelist_x86.cache
+ariaplugins_x64.cache
+ariaplugins_x86.cache
+Presets
+
+.wine/drive_c/users/ty/Application Data/Plogue/Aria/Presets:
+com.Plogue.Sequencer.Phoneme
+
+.wine/drive_c/users/ty/Application Data/Plogue/Aria/Presets/com.Plogue.Sequencer.Phoneme:
+
+.wine/drive_c/users/ty/Application Data/Plogue Art et Technologie, Inc:
+AlterEgo
+
+.wine/drive_c/users/ty/Application Data/Plogue Art et Technologie, Inc/AlterEgo:
+AlterEgo Standalone.log
+AlterEgo Standalone.log_Mon Jan 15 19_41_39 2018.log
+AlterEgo Standalone x64.log
+
+.wine/drive_c/users/ty/Contacts:
+
+.wine/drive_c/users/ty/Cookies:
+
+.wine/drive_c/users/ty/Downloads:
+
+.wine/drive_c/users/ty/Favorites:
+
+.wine/drive_c/users/ty/Links:
+
+.wine/drive_c/users/ty/Local Settings:
+Application Data
+History
+Temporary Internet Files
+
+.wine/drive_c/users/ty/Local Settings/Application Data:
+Microsoft
+
+.wine/drive_c/users/ty/Local Settings/Application Data/Microsoft:
+
+.wine/drive_c/users/ty/Local Settings/History:
+
+.wine/drive_c/users/ty/Local Settings/Temporary Internet Files:
+
+.wine/drive_c/users/ty/NetHood:
+
+.wine/drive_c/users/ty/PrintHood:
+
+.wine/drive_c/users/ty/Recent:
+
+.wine/drive_c/users/ty/Saved Games:
+
+.wine/drive_c/users/ty/Searches:
+
+.wine/drive_c/users/ty/SendTo:
+
+.wine/drive_c/users/ty/Start Menu:
+Programs
+
+.wine/drive_c/users/ty/Start Menu/Programs:
+Administrative Tools
+Balabolka
+DarkWave Studio
+KRISTAL.lnk
+Microsoft Speech SDK 5.1
+StartUp
+
+.wine/drive_c/users/ty/Start Menu/Programs/Administrative Tools:
+
+.wine/drive_c/users/ty/Start Menu/Programs/Balabolka:
+Balabolka.lnk
+Help.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/DarkWave Studio:
+Clear Options.lnk
+DarkWave Studio (32-bit).lnk
+DarkWave Studio (64-bit).lnk
+Disable ASIO Support.lnk
+Enable ASIO Support.lnk
+Online Help.url
+Sample Projects.lnk
+Uninstall.lnk
+VST Folder (32-bit).lnk
+VST Folder (64-bit).lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1:
+C++ Samples
+Microsoft Speech SDK 5.1 Help.lnk
+Tools
+Tutorials
+Visual Basic Samples
+Web Samples
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1/C++ Samples:
+Age Of Empires Speech.lnk
+Dictation Pad.lnk
+Simple Dictation.lnk
+Simple Telephony.lnk
+TalkBack.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1/Tools:
+Compliance Tool.lnk
+Grammar Compiler.lnk
+Reco.lnk
+TTSApp.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1/Tutorials:
+CoffeeS0.lnk
+CoffeeS1.lnk
+CoffeeS2.lnk
+CoffeeS3.lnk
+CoffeeS4.lnk
+CoffeeS5.lnk
+CoffeeS6.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1/Visual Basic Samples:
+VB Audio Application.lnk
+VB Listbox.lnk
+VB Outgoing Call.lnk
+VB Reco.lnk
+VB SimpleDict.lnk
+VB SimpleTTS.lnk
+VB TAPI with Internet.lnk
+VB TTS Application.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/Microsoft Speech SDK 5.1/Web Samples:
+SimpleTTS DHTML.lnk
+
+.wine/drive_c/users/ty/Start Menu/Programs/StartUp:
+
+.wine/drive_c/users/ty/Temp:
+msi1ba4.tmp
+
+.wine/drive_c/users/ty/Templates:
+
+.wine/drive_c/windows:
+command
+delttsul.exe
+explorer.exe
+Fonts
+help
+hh.exe
+inf
+Installer
+logs
+notepad.exe
+rackdata5.ini
+regedit.exe
+rundll.exe
+system
+system32
+system.ini
+syswow64
+temp
+twain_32.dll
+twain.dll
+winhelp.exe
+winhlp32.exe
+win.ini
+winsxs
+
+.wine/drive_c/windows/command:
+start.exe
+
+.wine/drive_c/windows/Fonts:
+
+.wine/drive_c/windows/help:
+
+.wine/drive_c/windows/inf:
+msTTS.inf
+
+.wine/drive_c/windows/Installer:
+1b7e.msi
+56c9.msi
+{A403D88E-ED7D-48E3-91FD-B8C8A720EDA1}
+
+.wine/drive_c/windows/Installer/{A403D88E-ED7D-48E3-91FD-B8C8A720EDA1}:
+appicon.exe
+coffee.exe
+dictpad.exe
+_E89C1C7BC1F1_4518_8E52_CBB44AFD7018.exe
+gramcomp.exe
+icon1.exe
+reco.exe
+simpledict.exe
+simpletelephony.exe
+talkback.exe
+
+.wine/drive_c/windows/logs:
+
+.wine/drive_c/windows/system:
+ddeml.dll
+mmsystem.dll
+
+.wine/drive_c/windows/system32:
+acledit.dll
+aclui.dll
+activeds.dll
+actxprxy.dll
+advapi32.dll
+advpack.dll
+amstream.dll
+api-ms-win-appmodel-identity-l1-1-0.dll
+api-ms-win-appmodel-runtime-l1-1-1.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+api-ms-win-core-appcompat-l1-1-1.dll
+api-ms-win-core-appinit-l1-1-0.dll
+api-ms-win-core-atoms-l1-1-0.dll
+api-ms-win-core-bem-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-com-private-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-1.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-errorhandling-l1-1-2.dll
+api-ms-win-core-fibers-l1-1-0.dll
+api-ms-win-core-fibers-l1-1-1.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-interlocked-l1-2-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-job-l1-1-0.dll
+api-ms-win-core-job-l2-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+api-ms-win-core-kernel32-private-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-2.dll
+api-ms-win-core-localization-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-localization-l2-1-0.dll
+api-ms-win-core-localization-obsolete-l1-1-0.dll
+api-ms-win-core-localization-obsolete-l1-2-0.dll
+api-ms-win-core-localization-private-l1-1-0.dll
+api-ms-win-core-localregistry-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-misc-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-2-0.dll
+api-ms-win-core-namespace-l1-1-0.dll
+api-ms-win-core-normalization-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-privateprofile-l1-1-1.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-psapi-obsolete-l1-1-0.dll
+api-ms-win-core-realtime-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-registryuserspecific-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-shlwapi-obsolete-l1-1-0.dll
+api-ms-win-core-sidebyside-l1-1-0.dll
+api-ms-win-core-stringansi-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-string-obsolete-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-threadpool-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-toolhelp-l1-1-0.dll
+api-ms-win-core-url-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-versionansi-l1-1-0.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-version-private-l1-1-0.dll
+api-ms-win-core-windowserrorreporting-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-1.dll
+api-ms-win-core-winrt-errorprivate-l1-1-1.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-winrt-registration-l1-1-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-0.dll
+api-ms-win-core-xstate-l1-1-0.dll
+api-ms-win-core-xstate-l2-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-process-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-devices-config-l1-1-1.dll
+api-ms-win-devices-query-l1-1-1.dll
+api-ms-win-downlevel-advapi32-l1-1-0.dll
+api-ms-win-downlevel-advapi32-l2-1-0.dll
+api-ms-win-downlevel-normaliz-l1-1-0.dll
+api-ms-win-downlevel-ole32-l1-1-0.dll
+api-ms-win-downlevel-shell32-l1-1-0.dll
+api-ms-win-downlevel-shlwapi-l1-1-0.dll
+api-ms-win-downlevel-shlwapi-l2-1-0.dll
+api-ms-win-downlevel-user32-l1-1-0.dll
+api-ms-win-downlevel-version-l1-1-0.dll
+api-ms-win-dx-d3dkmt-l1-1-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-eventing-consumer-l1-1-0.dll
+api-ms-win-eventing-controller-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-eventlog-legacy-l1-1-0.dll
+api-ms-win-ntuser-dc-access-l1-1-0.dll
+api-ms-win-power-base-l1-1-0.dll
+api-ms-win-power-setting-l1-1-0.dll
+api-ms-win-rtcore-ntuser-private-l1-1-0.dll
+api-ms-win-security-audit-l1-1-1.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-security-base-private-l1-1-1.dll
+api-ms-win-security-lsalookup-l1-1-0.dll
+api-ms-win-security-lsalookup-l1-1-1.dll
+api-ms-win-security-lsalookup-l2-1-1.dll
+api-ms-win-security-lsapolicy-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-service-core-l1-1-0.dll
+api-ms-win-service-core-l1-1-1.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+api-ms-win-service-private-l1-1-1.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+api-ms-win-service-winsvc-l1-2-0.dll
+api-ms-win-shell-shellcom-l1-1-0.dll
+api-ms-win-shell-shellfolders-l1-1-0.dll
+apphelp.dll
+appwiz.cpl
+arp.exe
+atl100.dll
+atl110.dll
+atl80.dll
+atl90.dll
+atl.dll
+attrib.exe
+authz.dll
+avicap32.dll
+avifil32.dll
+avrt.dll
+bcrypt.dll
+bluetoothapis.dll
+browseui.dll
+bthprops.cpl
+cabarc.exe
+cabinet.dll
+cacls.exe
+capi2032.dll
+cards.dll
+cfgmgr32.dll
+clock.exe
+clusapi.dll
+cmd.exe
+combase.dll
+comcat.dll
+comctl32.dll
+comdlg32.dll
+compstui.dll
+comsvcs.dll
+concrt140.dll
+conhost.exe
+connect.dll
+control.exe
+credui.dll
+crtdll.dll
+crypt32.dll
+cryptdlg.dll
+cryptdll.dll
+cryptext.dll
+cryptnet.dll
+cryptui.dll
+cscript.exe
+ctapi32.dll
+ctl3d32.dll
+d2d1.dll
+d3d10_1.dll
+d3d10core.dll
+d3d10.dll
+d3d11.dll
+d3d8.dll
+d3d9.dll
+d3dcompiler_33.dll
+d3dcompiler_34.dll
+d3dcompiler_35.dll
+d3dcompiler_36.dll
+d3dcompiler_37.dll
+d3dcompiler_38.dll
+d3dcompiler_39.dll
+d3dcompiler_40.dll
+d3dcompiler_41.dll
+d3dcompiler_42.dll
+d3dcompiler_43.dll
+d3dcompiler_46.dll
+d3dcompiler_47.dll
+d3dim.dll
+d3drm.dll
+d3dx10_33.dll
+d3dx10_34.dll
+d3dx10_35.dll
+d3dx10_36.dll
+d3dx10_37.dll
+d3dx10_38.dll
+d3dx10_39.dll
+d3dx10_40.dll
+d3dx10_41.dll
+d3dx10_42.dll
+d3dx10_43.dll
+d3dx11_42.dll
+d3dx11_43.dll
+d3dx9_24.dll
+d3dx9_25.dll
+d3dx9_26.dll
+d3dx9_27.dll
+d3dx9_28.dll
+d3dx9_29.dll
+d3dx9_30.dll
+d3dx9_31.dll
+d3dx9_32.dll
+d3dx9_33.dll
+d3dx9_34.dll
+d3dx9_35.dll
+d3dx9_36.dll
+d3dx9_37.dll
+d3dx9_38.dll
+d3dx9_39.dll
+d3dx9_40.dll
+d3dx9_41.dll
+d3dx9_42.dll
+d3dx9_43.dll
+d3dxof.dll
+davclnt.dll
+dbgeng.dll
+dbghelp.dll
+dciman32.dll
+ddraw.dll
+ddrawex.dll
+devenum.dll
+dhcpcsvc.dll
+difxapi.dll
+dinput8.dll
+dinput.dll
+dispex.dll
+dmband.dll
+dmcompos.dll
+dmime.dll
+dmloader.dll
+dmscript.dll
+dmstyle.dll
+dmsynth.dll
+dmusic32.dll
+dmusic.dll
+dnsapi.dll
+dplay.dll
+dplayx.dll
+dpnaddr.dll
+dpnet.dll
+dpnhpast.dll
+dpnlobby.dll
+dpnsvr.exe
+dpvoice.dll
+dpwsockx.dll
+drivers
+drmclien.dll
+dsound.dll
+dssenh.dll
+dswave.dll
+dwmapi.dll
+dwrite.dll
+dxdiag.exe
+dxdiagn.dll
+dxgi.dll
+dxva2.dll
+eject.exe
+esent.dll
+evr.dll
+expand.exe
+explorer.exe
+explorerframe.dll
+ext-ms-win-domainjoin-netjoin-l1-1-0.dll
+ext-ms-win-gdi-dc-create-l1-1-1.dll
+ext-ms-win-gdi-dc-l1-2-0.dll
+ext-ms-win-gdi-devcaps-l1-1-0.dll
+ext-ms-win-gdi-draw-l1-1-1.dll
+ext-ms-win-gdi-render-l1-1-0.dll
+ext-ms-win-kernel32-package-current-l1-1-0.dll
+ext-ms-win-ntuser-message-l1-1-1.dll
+ext-ms-win-ntuser-private-l1-1-1.dll
+ext-ms-win-ntuser-rectangle-ext-l1-1-0.dll
+ext-ms-win-ntuser-uicontext-ext-l1-1-0.dll
+ext-ms-win-ntuser-window-l1-1-1.dll
+ext-ms-win-rtcore-gdi-object-l1-1-0.dll
+ext-ms-win-rtcore-gdi-rgn-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-dc-access-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-dpi-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-sysparams-l1-1-0.dll
+extrac32.exe
+faultrep.dll
+findstr.exe
+fltlib.dll
+fntcache.dll
+fontsub.dll
+fsutil.exe
+fwpuclnt.dll
+gameux.dll
+gdi32.dll
+gdiplus.dll
+gecko
+glu32.dll
+gphoto2.ds
+gpkcsp.dll
+hal.dll
+hhctrl.ocx
+hidclass.sys
+hid.dll
+hlink.dll
+hnetcfg.dll
+hostname.exe
+httpapi.dll
+icacls.exe
+iccvid.dll
+icinfo.exe
+icmp.dll
+ieframe.dll
+iexplore.exe
+imaadp32.acm
+imagehlp.dll
+imm32.dll
+inetcomm.dll
+inetcpl.cpl
+inetmib1.dll
+infosoft.dll
+initpki.dll
+inkobj.dll
+inseng.dll
+ipconfig.exe
+iphlpapi.dll
+iprop.dll
+irprops.cpl
+itircl.dll
+itss.dll
+joy.cpl
+jscript.dll
+jsproxy.dll
+kernel32.dll
+kernelbase.dll
+ksuser.dll
+ktmw32.dll
+l_intl.nls
+loadperf.dll
+localspl.dll
+localui.dll
+lodctr.exe
+lz32.dll
+mapi32.dll
+mapistub.dll
+mciavi32.dll
+mcicda.dll
+mciqtz32.dll
+mciseq.dll
+mciwave.dll
+mf.dll
+mfplat.dll
+mfreadwrite.dll
+mgmtapi.dll
+midimap.dll
+mlang.dll
+mmcndmgr.dll
+mmdevapi.dll
+mprapi.dll
+mpr.dll
+msacm32.dll
+msacm32.drv
+msadp32.acm
+msasn1.dll
+mscat32.dll
+mscms.dll
+mscoree.dll
+msctf.dll
+msctfp.dll
+msdelta.dll
+msdmo.dll
+msdrm.dll
+msftedit.dll
+msg711.acm
+msgsm32.acm
+mshta.exe
+mshtml.dll
+mshtml.tlb
+msident.dll
+msi.dll
+msiexec.exe
+msimg32.dll
+msimsg.dll
+msimtf.dll
+msinfo32.exe
+msisip.dll
+msisys.ocx
+msls31.dll
+msnet32.dll
+mspatcha.dll
+msports.dll
+msrle32.dll
+msscript.ocx
+mssign32.dll
+mssip32.dll
+mstask.dll
+msvcirt.dll
+msvcm80.dll
+msvcm90.dll
+msvcp100.dll
+msvcp110.dll
+msvcp120_app.dll
+msvcp120.dll
+msvcp140.dll
+msvcp60.dll
+msvcp70.dll
+msvcp71.dll
+msvcp80.dll
+msvcp90.dll
+msvcr100.dll
+msvcr110.dll
+msvcr120_app.dll
+msvcr120.dll
+msvcr70.dll
+msvcr71.dll
+msvcr80.dll
+msvcr90.dll
+msvcrt20.dll
+msvcrt40.dll
+msvcrtd.dll
+msvcrt.dll
+msvfw32.dll
+msvidc32.dll
+mswsock.dll
+msxml2.dll
+msxml3.dll
+msxml4.dll
+msxml6.dll
+msxml.dll
+mui
+ncrypt.dll
+nddeapi.dll
+netapi32.dll
+netcfgx.dll
+net.exe
+netprofm.dll
+netsh.exe
+netstat.exe
+newdev.dll
+normaliz.dll
+notepad.exe
+npptools.dll
+ntdll.dll
+ntdsapi.dll
+ntoskrnl.exe
+ntprint.dll
+objsel.dll
+odbc32.dll
+odbccp32.dll
+odbccu32.dll
+ole32.dll
+oleacc.dll
+oleaut32.dll
+olecli32.dll
+oledlg.dll
+olepro32.dll
+olesvr32.dll
+olethk32.dll
+oleview.exe
+openal32.dll
+opencl.dll
+opengl32.dll
+packager.dll
+pdh.dll
+photometadatahandler.dll
+pidgen.dll
+ping.exe
+plugplay.exe
+powrprof.dll
+printui.dll
+prntvpt.dll
+progman.exe
+propsys.dll
+psapi.dll
+pstorec.dll
+qcap.dll
+qedit.dll
+qmgr.dll
+qmgrprxy.dll
+quartz.dll
+query.dll
+rasapi32.dll
+rasdlg.dll
+regapi.dll
+reg.exe
+regsvr32.exe
+resutils.dll
+riched20.dll
+riched32.dll
+rpcrt4.dll
+rpcss.exe
+rsabase.dll
+rsaenh.dll
+rstrtmgr.dll
+rtutils.dll
+rundll32.exe
+samlib.dll
+sane.ds
+scarddlg.dll
+sccbase.dll
+sc.exe
+schannel.dll
+schedsvc.dll
+schtasks.exe
+scrrun.dll
+scsiport.sys
+sdbinst.exe
+secedit.exe
+secur32.dll
+security.dll
+sensapi.dll
+serialui.dll
+services.exe
+setupapi.dll
+sfc.dll
+sfc_os.dll
+shdoclc.dll
+shdocvw.dll
+shell32.dll
+shfolder.dll
+shlwapi.dll
+shutdown.exe
+slbcsp.dll
+slc.dll
+snmpapi.dll
+softpub.dll
+spool
+spoolss.dll
+spoolsv.exe
+sspicli.dll
+start.exe
+stdole2.tlb
+stdole32.tlb
+sti.dll
+subst.exe
+svchost.exe
+svrapi.dll
+sxs.dll
+systeminfo.exe
+t2embed.dll
+tapi32.dll
+taskkill.exe
+tasklist.exe
+taskmgr.exe
+tasks
+taskschd.dll
+termsv.exe
+traffic.dll
+twain_32.dll
+ucrtbase.dll
+unicows.dll
+uninstaller.exe
+unlodctr.exe
+updspapi.dll
+url.dll
+urlmon.dll
+usbd.sys
+user32.dll
+userenv.dll
+usp10.dll
+uxtheme.dll
+vbscript.dll
+vcomp100.dll
+vcomp110.dll
+vcomp120.dll
+vcomp140.dll
+vcomp90.dll
+vcomp.dll
+vcruntime140.dll
+vdmdbg.dll
+version.dll
+view.exe
+vssapi.dll
+wbem
+webservices.dll
+wer.dll
+wevtapi.dll
+wevtutil.exe
+wiaservc.dll
+wimgapi.dll
+windowscodecs.dll
+windowscodecsext.dll
+winealsa.drv
+wineboot.exe
+winebrowser.exe
+winecfg.exe
+wineconsole.exe
+wined3d.dll
+winedbg.exe
+winedevice.exe
+winefile.exe
+winegstreamer.dll
+winejoystick.drv
+winemapi.dll
+winemenubuilder.exe
+winemine.exe
+winemp3.acm
+winemsibuilder.exe
+winepath.exe
+wineps.drv
+winepulse.drv
+winex11.drv
+wing32.dll
+winhlp32.exe
+winhttp.dll
+wininet.dll
+winmm.dll
+winnls32.dll
+winscard.dll
+winspool.drv
+winsta.dll
+wintab32.dll
+wintrust.dll
+winver.exe
+wlanapi.dll
+wldap32.dll
+wmasf.dll
+wmi.dll
+wmp.dll
+wmvcore.dll
+wnaspi32.dll
+wpcap.dll
+wpc.dll
+write.exe
+ws2_32.dll
+wscript.exe
+wshom.ocx
+wsnmp32.dll
+wsock32.dll
+wtsapi32.dll
+wuapi.dll
+wuaueng.dll
+wusa.exe
+x3daudio1_0.dll
+x3daudio1_1.dll
+x3daudio1_2.dll
+x3daudio1_3.dll
+x3daudio1_4.dll
+x3daudio1_5.dll
+x3daudio1_6.dll
+x3daudio1_7.dll
+xapofx1_1.dll
+xapofx1_2.dll
+xapofx1_3.dll
+xapofx1_4.dll
+xapofx1_5.dll
+xaudio2_0.dll
+xaudio2_1.dll
+xaudio2_2.dll
+xaudio2_3.dll
+xaudio2_4.dll
+xaudio2_5.dll
+xaudio2_6.dll
+xaudio2_7.dll
+xaudio2_8.dll
+xaudio2_9.dll
+xcopy.exe
+xinput1_1.dll
+xinput1_2.dll
+xinput1_3.dll
+xinput1_4.dll
+xinput9_1_0.dll
+xmllite.dll
+xolehlp.dll
+xpsprint.dll
+xpssvcs.dll
+
+.wine/drive_c/windows/system32/drivers:
+fltmgr.sys
+mountmgr.sys
+ndis.sys
+tdi.sys
+winebus.sys
+winehid.sys
+
+.wine/drive_c/windows/system32/gecko:
+plugin
+
+.wine/drive_c/windows/system32/gecko/plugin:
+npmshtml.dll
+
+.wine/drive_c/windows/system32/mui:
+
+.wine/drive_c/windows/system32/spool:
+drivers
+printers
+
+.wine/drive_c/windows/system32/spool/drivers:
+color
+w32x86
+win40
+x64
+
+.wine/drive_c/windows/system32/spool/drivers/color:
+
+.wine/drive_c/windows/system32/spool/drivers/w32x86:
+3
+
+.wine/drive_c/windows/system32/spool/drivers/w32x86/3:
+HP_OfficeJet_4650_series_270CD6_.ppd
+
+.wine/drive_c/windows/system32/spool/drivers/win40:
+0
+
+.wine/drive_c/windows/system32/spool/drivers/win40/0:
+HP_OfficeJet_4650_series_270CD6_.ppd
+
+.wine/drive_c/windows/system32/spool/drivers/x64:
+3
+
+.wine/drive_c/windows/system32/spool/drivers/x64/3:
+HP_OfficeJet_4650_series_270CD6_.ppd
+
+.wine/drive_c/windows/system32/spool/printers:
+
+.wine/drive_c/windows/system32/tasks:
+
+.wine/drive_c/windows/system32/wbem:
+mofcomp.exe
+wbemdisp.dll
+wbemprox.dll
+wmic.exe
+wmiutils.dll
+
+.wine/drive_c/windows/syswow64:
+acledit.dll
+aclui.dll
+activeds.dll
+actxprxy.dll
+advapi32.dll
+advpack.dll
+amstream.dll
+api-ms-win-appmodel-identity-l1-1-0.dll
+api-ms-win-appmodel-runtime-l1-1-1.dll
+api-ms-win-core-apiquery-l1-1-0.dll
+api-ms-win-core-appcompat-l1-1-1.dll
+api-ms-win-core-appinit-l1-1-0.dll
+api-ms-win-core-atoms-l1-1-0.dll
+api-ms-win-core-bem-l1-1-0.dll
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-com-l1-1-1.dll
+api-ms-win-core-com-private-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-1.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-delayload-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-1.dll
+api-ms-win-core-errorhandling-l1-1-2.dll
+api-ms-win-core-fibers-l1-1-0.dll
+api-ms-win-core-fibers-l1-1-1.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-1.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-2-0.dll
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-interlocked-l1-2-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-job-l1-1-0.dll
+api-ms-win-core-job-l2-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-1.dll
+api-ms-win-core-kernel32-private-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-1.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-2.dll
+api-ms-win-core-localization-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l1-2-1.dll
+api-ms-win-core-localization-l2-1-0.dll
+api-ms-win-core-localization-obsolete-l1-1-0.dll
+api-ms-win-core-localization-obsolete-l1-2-0.dll
+api-ms-win-core-localization-private-l1-1-0.dll
+api-ms-win-core-localregistry-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-misc-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-2-0.dll
+api-ms-win-core-namespace-l1-1-0.dll
+api-ms-win-core-normalization-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-privateprofile-l1-1-1.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-psapi-obsolete-l1-1-0.dll
+api-ms-win-core-realtime-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-registryuserspecific-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-shlwapi-obsolete-l1-1-0.dll
+api-ms-win-core-sidebyside-l1-1-0.dll
+api-ms-win-core-stringansi-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-string-obsolete-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-threadpool-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-toolhelp-l1-1-0.dll
+api-ms-win-core-url-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-versionansi-l1-1-0.dll
+api-ms-win-core-version-l1-1-0.dll
+api-ms-win-core-version-private-l1-1-0.dll
+api-ms-win-core-windowserrorreporting-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-0.dll
+api-ms-win-core-winrt-error-l1-1-1.dll
+api-ms-win-core-winrt-errorprivate-l1-1-1.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-winrt-registration-l1-1-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-0.dll
+api-ms-win-core-xstate-l1-1-0.dll
+api-ms-win-core-xstate-l2-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-process-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-devices-config-l1-1-1.dll
+api-ms-win-devices-query-l1-1-1.dll
+api-ms-win-downlevel-advapi32-l1-1-0.dll
+api-ms-win-downlevel-advapi32-l2-1-0.dll
+api-ms-win-downlevel-normaliz-l1-1-0.dll
+api-ms-win-downlevel-ole32-l1-1-0.dll
+api-ms-win-downlevel-shell32-l1-1-0.dll
+api-ms-win-downlevel-shlwapi-l1-1-0.dll
+api-ms-win-downlevel-shlwapi-l2-1-0.dll
+api-ms-win-downlevel-user32-l1-1-0.dll
+api-ms-win-downlevel-version-l1-1-0.dll
+api-ms-win-dx-d3dkmt-l1-1-0.dll
+api-ms-win-eventing-classicprovider-l1-1-0.dll
+api-ms-win-eventing-consumer-l1-1-0.dll
+api-ms-win-eventing-controller-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-eventlog-legacy-l1-1-0.dll
+api-ms-win-ntuser-dc-access-l1-1-0.dll
+api-ms-win-power-base-l1-1-0.dll
+api-ms-win-power-setting-l1-1-0.dll
+api-ms-win-rtcore-ntuser-private-l1-1-0.dll
+api-ms-win-security-audit-l1-1-1.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-base-l1-2-0.dll
+api-ms-win-security-base-private-l1-1-1.dll
+api-ms-win-security-lsalookup-l1-1-0.dll
+api-ms-win-security-lsalookup-l1-1-1.dll
+api-ms-win-security-lsalookup-l2-1-1.dll
+api-ms-win-security-lsapolicy-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+api-ms-win-service-core-l1-1-0.dll
+api-ms-win-service-core-l1-1-1.dll
+api-ms-win-service-management-l1-1-0.dll
+api-ms-win-service-management-l2-1-0.dll
+api-ms-win-service-private-l1-1-1.dll
+api-ms-win-service-winsvc-l1-1-0.dll
+api-ms-win-service-winsvc-l1-2-0.dll
+api-ms-win-shell-shellcom-l1-1-0.dll
+api-ms-win-shell-shellfolders-l1-1-0.dll
+apphelp.dll
+appwiz.cpl
+arp.exe
+asycfilt.dll
+atl100.dll
+atl110.dll
+atl80.dll
+atl90.dll
+atl.dll
+attrib.exe
+authz.dll
+avicap32.dll
+avifil32.dll
+avifile.dll
+avrt.dll
+bcrypt.dll
+bluetoothapis.dll
+browseui.dll
+bthprops.cpl
+cabarc.exe
+cabinet.dll
+cacls.exe
+capi2032.dll
+cards.dll
+cfgmgr32.dll
+clock.exe
+clusapi.dll
+cmd.exe
+combase.dll
+comcat.dll
+comctl32.dll
+comdlg32.dll
+comdlg32.ocx
+commdlg.dll
+comm.drv
+compobj.dll
+compstui.dll
+comsvcs.dll
+concrt140.dll
+conhost.exe
+connect.dll
+control.exe
+credui.dll
+crtdll.dll
+crypt32.dll
+cryptdlg.dll
+cryptdll.dll
+cryptext.dll
+cryptnet.dll
+cryptui.dll
+cscript.exe
+ctapi32.dll
+ctl3d32.dll
+ctl3d.dll
+ctl3dv2.dll
+d2d1.dll
+d3d10_1.dll
+d3d10core.dll
+d3d10.dll
+d3d11.dll
+d3d8.dll
+d3d9.dll
+d3dcompiler_33.dll
+d3dcompiler_34.dll
+d3dcompiler_35.dll
+d3dcompiler_36.dll
+d3dcompiler_37.dll
+d3dcompiler_38.dll
+d3dcompiler_39.dll
+d3dcompiler_40.dll
+d3dcompiler_41.dll
+d3dcompiler_42.dll
+d3dcompiler_43.dll
+d3dcompiler_46.dll
+d3dcompiler_47.dll
+d3dim.dll
+d3drm.dll
+d3dx10_33.dll
+d3dx10_34.dll
+d3dx10_35.dll
+d3dx10_36.dll
+d3dx10_37.dll
+d3dx10_38.dll
+d3dx10_39.dll
+d3dx10_40.dll
+d3dx10_41.dll
+d3dx10_42.dll
+d3dx10_43.dll
+d3dx11_42.dll
+d3dx11_43.dll
+d3dx9_24.dll
+d3dx9_25.dll
+d3dx9_26.dll
+d3dx9_27.dll
+d3dx9_28.dll
+d3dx9_29.dll
+d3dx9_30.dll
+d3dx9_31.dll
+d3dx9_32.dll
+d3dx9_33.dll
+d3dx9_34.dll
+d3dx9_35.dll
+d3dx9_36.dll
+d3dx9_37.dll
+d3dx9_38.dll
+d3dx9_39.dll
+d3dx9_40.dll
+d3dx9_41.dll
+d3dx9_42.dll
+d3dx9_43.dll
+d3dxof.dll
+davclnt.dll
+dbgeng.dll
+dbghelp.dll
+dciman32.dll
+ddhelp.exe
+ddraw.dll
+ddrawex.dll
+devenum.dll
+dhcpcsvc.dll
+difxapi.dll
+dinput8.dll
+dinput.dll
+dispdib.dll
+dispex.dll
+display.drv
+dmband.dll
+dmcompos.dll
+dmime.dll
+dmloader.dll
+dmscript.dll
+dmstyle.dll
+dmsynth.dll
+dmusic32.dll
+dmusic.dll
+dnsapi.dll
+dosx.exe
+dplay.dll
+dplayx.dll
+dpnaddr.dll
+dpnet.dll
+dpnhpast.dll
+dpnlobby.dll
+dpnsvr.exe
+dpvoice.dll
+dpwsockx.dll
+drivers
+drmclien.dll
+dsound.dll
+dsound.vxd
+dssenh.dll
+dswave.dll
+dwmapi.dll
+dwrite.dll
+dxdiag.exe
+dxdiagn.dll
+dxgi.dll
+dxva2.dll
+eject.exe
+esent.dll
+evr.dll
+expand.exe
+explorer.exe
+explorerframe.dll
+ext-ms-win-domainjoin-netjoin-l1-1-0.dll
+ext-ms-win-gdi-dc-create-l1-1-1.dll
+ext-ms-win-gdi-dc-l1-2-0.dll
+ext-ms-win-gdi-devcaps-l1-1-0.dll
+ext-ms-win-gdi-draw-l1-1-1.dll
+ext-ms-win-gdi-render-l1-1-0.dll
+ext-ms-win-kernel32-package-current-l1-1-0.dll
+ext-ms-win-ntuser-message-l1-1-1.dll
+ext-ms-win-ntuser-private-l1-1-1.dll
+ext-ms-win-ntuser-rectangle-ext-l1-1-0.dll
+ext-ms-win-ntuser-uicontext-ext-l1-1-0.dll
+ext-ms-win-ntuser-window-l1-1-1.dll
+ext-ms-win-rtcore-gdi-object-l1-1-0.dll
+ext-ms-win-rtcore-gdi-rgn-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-dc-access-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-dpi-l1-1-0.dll
+ext-ms-win-rtcore-ntuser-sysparams-l1-1-0.dll
+extrac32.exe
+faultrep.dll
+findstr.exe
+fltlib.dll
+fntcache.dll
+fontsub.dll
+fsutil.exe
+fwpuclnt.dll
+gameux.dll
+gdi32.dll
+gdi.exe
+gdiplus.dll
+gecko
+glu32.dll
+gphoto2.ds
+gpkcsp.dll
+hal.dll
+hhctrl.ocx
+hh.exe
+hidclass.sys
+hid.dll
+hlink.dll
+hnetcfg.dll
+hostname.exe
+httpapi.dll
+icacls.exe
+iccvid.dll
+icinfo.exe
+icmp.dll
+ieframe.dll
+iexplore.exe
+ifsmgr.vxd
+imaadp32.acm
+imagehlp.dll
+imm32.dll
+imm.dll
+inetcomm.dll
+inetcpl.cpl
+inetmib1.dll
+infosoft.dll
+initpki.dll
+inkobj.dll
+inseng.dll
+ipconfig.exe
+iphlpapi.dll
+iprop.dll
+irprops.cpl
+itircl.dll
+itss.dll
+joy.cpl
+jscript.dll
+jsproxy.dll
+kernel32.dll
+kernelbase.dll
+keyboard.drv
+krnl386.exe
+ksuser.dll
+ktmw32.dll
+l_intl.nls
+loadperf.dll
+localspl.dll
+localui.dll
+lodctr.exe
+lz32.dll
+lzexpand.dll
+mapi32.dll
+mapistub.dll
+mciavi32.dll
+mcicda.dll
+mciqtz32.dll
+mciseq.dll
+mciwave.dll
+mfc42.dll
+mf.dll
+mfplat.dll
+mfreadwrite.dll
+mgmtapi.dll
+midimap.dll
+mlang.dll
+mmcndmgr.dll
+mmdevapi.dll
+mmdevldr.vxd
+monodebg.vxd
+mouse.drv
+mprapi.dll
+mpr.dll
+msacm32.dll
+msacm32.drv
+msacm.dll
+msadp32.acm
+msasn1.dll
+mscat32.dll
+mscms.dll
+mscomct2.ocx
+mscomctl.ocx
+mscoree.dll
+msctf.dll
+msctfp.dll
+msdaps.dll
+msdelta.dll
+msdmo.dll
+msdrm.dll
+msftedit.dll
+msg711.acm
+msgsm32.acm
+mshta.exe
+mshtml.dll
+mshtml.tlb
+msident.dll
+msi.dll
+msiexec.exe
+msimg32.dll
+msimsg.dll
+msimtf.dll
+msinfo32.exe
+msisip.dll
+msisys.ocx
+msls31.dll
+msnet32.dll
+mspatcha.dll
+msports.dll
+msrle32.dll
+msscript.ocx
+mssign32.dll
+mssip32.dll
+mstask.dll
+msvbvm60.dll
+msvcirt.dll
+msvcm80.dll
+msvcm90.dll
+msvcp100.dll
+msvcp110.dll
+msvcp120_app.dll
+msvcp120.dll
+msvcp140.dll
+msvcp60.dll
+msvcp70.dll
+msvcp71.dll
+msvcp80.dll
+msvcp90.dll
+msvcr100.dll
+msvcr110.dll
+msvcr120_app.dll
+msvcr120.dll
+msvcr70.dll
+msvcr71.dll
+msvcr80.dll
+msvcr90.dll
+msvcrt20.dll
+msvcrt40.dll
+msvcrtd.dll
+msvcrt.dll
+msvfw32.dll
+msvidc32.dll
+msvideo.dll
+mswsock.dll
+msxml2.dll
+msxml3.dll
+msxml4.dll
+msxml6.dll
+msxml.dll
+mui
+ncrypt.dll
+nddeapi.dll
+netapi32.dll
+netcfgx.dll
+net.exe
+netprofm.dll
+netsh.exe
+netstat.exe
+newdev.dll
+normaliz.dll
+notepad.exe
+npptools.dll
+ntdll.dll
+ntdsapi.dll
+ntoskrnl.exe
+ntprint.dll
+objsel.dll
+odbc32.dll
+odbccp32.dll
+odbccu32.dll
+ole2conv.dll
+ole2disp.dll
+ole2.dll
+ole2nls.dll
+ole2prox.dll
+ole2thk.dll
+ole32.dll
+oleacc.dll
+oleaut32.dll
+olecli32.dll
+olecli.dll
+oledb32.dll
+oledlg.dll
+olepro32.dll
+olesvr32.dll
+olesvr.dll
+olethk32.dll
+oleview.exe
+openal32.dll
+opencl.dll
+opengl32.dll
+packager.dll
+pdh.dll
+photometadatahandler.dll
+pidgen.dll
+ping.exe
+plugplay.exe
+powrprof.dll
+printui.dll
+prntvpt.dll
+progman.exe
+propsys.dll
+psapi.dll
+pstorec.dll
+qcap.dll
+qedit.dll
+qmgr.dll
+qmgrprxy.dll
+quartz.dll
+query.dll
+rasapi16.dll
+rasapi32.dll
+rasdlg.dll
+regapi.dll
+regedit.exe
+reg.exe
+regsvr32.exe
+resutils.dll
+riched20.dll
+riched32.dll
+rpcrt4.dll
+rpcss.exe
+rsabase.dll
+rsaenh.dll
+rstrtmgr.dll
+rtutils.dll
+rundll32.exe
+samlib.dll
+sane.ds
+scarddlg.dll
+sccbase.dll
+sc.exe
+schannel.dll
+schedsvc.dll
+schtasks.exe
+scrrun.dll
+scsiport.sys
+sdbinst.exe
+secedit.exe
+secur32.dll
+security.dll
+sensapi.dll
+serialui.dll
+services.exe
+setupapi.dll
+setupx.dll
+sfc.dll
+sfc_os.dll
+shdoclc.dll
+shdocvw.dll
+shell32.dll
+shell.dll
+shfolder.dll
+shlwapi.dll
+shutdown.exe
+slbcsp.dll
+slc.dll
+snmpapi.dll
+softpub.dll
+sound.drv
+spoolss.dll
+spoolsv.exe
+sspicli.dll
+stdole2.tlb
+stdole32.tlb
+sti.dll
+storage.dll
+stress.dll
+subst.exe
+svchost.exe
+svrapi.dll
+sxs.dll
+system.drv
+systeminfo.exe
+t2embed.dll
+tapi32.dll
+taskkill.exe
+tasklist.exe
+taskmgr.exe
+taskschd.dll
+termsv.exe
+toolhelp.dll
+traffic.dll
+typelib.dll
+ucrtbase.dll
+unicows.dll
+uninstaller.exe
+unlodctr.exe
+updspapi.dll
+url.dll
+urlmon.dll
+usbd.sys
+user32.dll
+userenv.dll
+user.exe
+usp10.dll
+uxtheme.dll
+vbscript.dll
+vcomp100.dll
+vcomp110.dll
+vcomp120.dll
+vcomp140.dll
+vcomp90.dll
+vcomp.dll
+vcruntime140.dll
+vdhcp.vxd
+vdmdbg.dll
+ver.dll
+version.dll
+view.exe
+vmm.vxd
+vnbt.vxd
+vnetbios.vxd
+vssapi.dll
+vtdapi.vxd
+vwin32.vxd
+w32skrnl.dll
+w32sys.dll
+wbem
+wbemdisp.dll
+wbemprox.dll
+webservices.dll
+wer.dll
+wevtapi.dll
+wevtutil.exe
+wiaservc.dll
+wimgapi.dll
+win32s16.dll
+win87em.dll
+winaspi.dll
+windebug.dll
+windowscodecs.dll
+windowscodecsext.dll
+winealsa.drv
+wineboot.exe
+winebrowser.exe
+winecfg.exe
+wineconsole.exe
+wined3d.dll
+winedbg.exe
+winedevice.exe
+winefile.exe
+winegstreamer.dll
+winejoystick.drv
+winemapi.dll
+winemenubuilder.exe
+winemine.exe
+winemp3.acm
+winemsibuilder.exe
+winepath.exe
+wineps16.drv
+wineps.drv
+winepulse.drv
+winevdm.exe
+winex11.drv
+wing32.dll
+wing.dll
+winhlp32.exe
+winhttp.dll
+wininet.dll
+winmm.dll
+winnls32.dll
+winnls.dll
+winoldap.mod
+winscard.dll
+winsock.dll
+winspool.drv
+winsta.dll
+wintab32.dll
+wintab.dll
+wintrust.dll
+winver.exe
+wlanapi.dll
+wldap32.dll
+wmasf.dll
+wmic.exe
+wmi.dll
+wmiutils.dll
+wmp.dll
+wmvcore.dll
+wnaspi32.dll
+wow32.dll
+wpcap.dll
+wpc.dll
+write.exe
+ws2_32.dll
+wscript.exe
+wshom.ocx
+wsnmp32.dll
+wsock32.dll
+wtsapi32.dll
+wuapi.dll
+wuaueng.dll
+wusa.exe
+x3daudio1_0.dll
+x3daudio1_1.dll
+x3daudio1_2.dll
+x3daudio1_3.dll
+x3daudio1_4.dll
+x3daudio1_5.dll
+x3daudio1_6.dll
+x3daudio1_7.dll
+xapofx1_1.dll
+xapofx1_2.dll
+xapofx1_3.dll
+xapofx1_4.dll
+xapofx1_5.dll
+xaudio2_0.dll
+xaudio2_1.dll
+xaudio2_2.dll
+xaudio2_3.dll
+xaudio2_4.dll
+xaudio2_5.dll
+xaudio2_6.dll
+xaudio2_7.dll
+xaudio2_8.dll
+xaudio2_9.dll
+xcopy.exe
+xinput1_1.dll
+xinput1_2.dll
+xinput1_3.dll
+xinput1_4.dll
+xinput9_1_0.dll
+xmllite.dll
+xolehlp.dll
+xpsprint.dll
+xpssvcs.dll
+
+.wine/drive_c/windows/syswow64/drivers:
+
+.wine/drive_c/windows/syswow64/gecko:
+plugin
+
+.wine/drive_c/windows/syswow64/gecko/plugin:
+npmshtml.dll
+
+.wine/drive_c/windows/syswow64/mui:
+
+.wine/drive_c/windows/syswow64/wbem:
+mofcomp.exe
+
+.wine/drive_c/windows/temp:
+
+.wine/drive_c/windows/winsxs:
+amd64_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef
+amd64_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef
+amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef
+amd64_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef
+amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef
+amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef
+amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef
+amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef
+amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef
+amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef
+manifests
+x86_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef
+x86_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef
+x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef
+x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef
+x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef
+x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef
+x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef
+x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef
+x86_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef
+x86_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef:
+msxml4.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef:
+atl80.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef:
+msvcr80.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef:
+atl90.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef:
+msvcr90.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef:
+comctl32.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef:
+gdiplus.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef:
+gdiplus.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef:
+msxml3.dll
+
+.wine/drive_c/windows/winsxs/amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef:
+msxml6.dll
+
+.wine/drive_c/windows/winsxs/manifests:
+amd64_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef.manifest
+amd64_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef.manifest
+amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef.manifest
+amd64_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef.manifest
+amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef.manifest
+amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef.manifest
+amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef.manifest
+amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef.manifest
+amd64_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef.manifest
+amd64_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef.manifest
+x86_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef.manifest
+x86_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef.manifest
+x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef.manifest
+x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef.manifest
+x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef.manifest
+x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef.manifest
+x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef.manifest
+x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef.manifest
+x86_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef.manifest
+x86_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef.manifest
+
+.wine/drive_c/windows/winsxs/x86_microsoft.msxml2_6bd6b9abf345378f_4.1.0.0_none_deadbeef:
+msxml4.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.vc80.atl_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef:
+atl80.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4053_none_deadbeef:
+msvcr80.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef:
+atl90.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_deadbeef:
+msvcr90.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef:
+comctl32.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.6000.16386_none_deadbeef:
+gdiplus.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23038_none_deadbeef:
+gdiplus.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft-windows-msxml30_31bf3856ad364e35_6.0.6000.16386_none_deadbeef:
+msxml3.dll
+
+.wine/drive_c/windows/winsxs/x86_microsoft-windows-msxml60_31bf3856ad364e35_6.0.6000.16386_none_deadbeef:
+msxml6.dll
